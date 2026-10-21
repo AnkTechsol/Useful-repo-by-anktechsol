@@ -3,7 +3,7 @@
 Auto-generated from [github.com/trending](https://github.com/trending) (daily and weekly), filtered for AI, agents, skills, MCP and automation. Open-source repos are listed first. Repos marked ⚠️ have no OSI-style licence or an unusual star spike, so check before using them. Quick-start snippets are auto-extracted from each README: read the README before running anything.
 
 ## [morluto/rea](https://github.com/morluto/rea)
-✅ open source · ⚠️ unusual star spike, verify before trusting · TypeScript · ★ 350,483 · +157631 stars this week
+✅ open source · ⚠️ unusual star spike, verify before trusting · TypeScript · ★ 350,498 · +157631 stars this week
 
 **What it is:** Reverse engineer anything with agents, from app behavior down to native binaries.
 
@@ -25,7 +25,7 @@ straight from the repository, or clone it and run `scripts/install.sh`:
 ```
 
 ## [storytold/artcraft](https://github.com/storytold/artcraft)
-✅ open source · Rust · ★ 34,699 · +10287 stars this week
+✅ open source · Rust · ★ 34,701 · +10287 stars this week
 
 **What it is:** ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
@@ -48,7 +48,7 @@ straight from the repository, or clone it and run `scripts/install.sh`:
 **How to start:** open the repo and follow its README.
 
 ## [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-✅ open source · HTML · ★ 59,148 · +5473 stars this week
+✅ open source · HTML · ★ 59,149 · +5473 stars this week
 
 **What it is:** Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
@@ -70,7 +70,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 ## [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-✅ open source · Python · ★ 61,283 · +3861 stars today, +12848 this week
+✅ open source · Python · ★ 61,284 · +3861 stars today, +12848 this week
 
 **What it is:** The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
@@ -82,7 +82,7 @@ python3 tools/install_portal_clis.py   # Windows: python tools\install_portal_cl
 ```
 
 ## [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-✅ open source · JavaScript · ★ 34,655 · +1712 stars today
+✅ open source · JavaScript · ★ 34,658 · +1712 stars today
 
 **What it is:** A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
@@ -93,7 +93,7 @@ npx skills add https://github.com/cloudflare/security-audit-skill \
 ```
 
 ## [stablyai/orca](https://github.com/stablyai/orca)
-✅ open source · TypeScript · ★ 100,093 · +1565 stars today
+✅ open source · TypeScript · ★ 100,095 · +1565 stars today
 
 **What it is:** Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
@@ -110,14 +110,14 @@ android skills add r8-analyzer --project=.
 ```
 
 ## [anomalyco/opencode](https://github.com/anomalyco/opencode)
-✅ open source · TypeScript · ★ 219,167 · +1240 stars today
+✅ open source · TypeScript · ★ 219,168 · +1240 stars today
 
 **What it is:** English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt
 
 **How to start:** open the repo and follow its README.
 
 ## [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-✅ open source · JavaScript · ★ 170,191 · +1208 stars today
+✅ open source · JavaScript · ★ 170,196 · +1208 stars today
 
 **What it is:** Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
@@ -127,7 +127,7 @@ android skills add r8-analyzer --project=.
 ```
 
 ## [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-✅ open source · Python · ★ 140,986 · +1206 stars today
+✅ open source · Python · ★ 140,987 · +1206 stars today
 
 **What it is:** The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
@@ -137,7 +137,7 @@ pip install -r manager_requirements.txt
 ```
 
 ## [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
-✅ open source · Python · ★ 130,567 · +802 stars today
+✅ open source · Python · ★ 130,570 · +802 stars today
 
 **What it is:** Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
@@ -171,7 +171,7 @@ brew install --cask msitarzewski/agency-agents/agency-agents
 ```
 
 ## [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-✅ open source · Python · ★ 76,865 · +549 stars today
+✅ open source · Python · ★ 76,868 · +549 stars today
 
 **What it is:** Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
@@ -184,7 +184,7 @@ docker pull ghcr.io/headroomlabs-ai/headroom:latest
 ```
 
 ## [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-✅ open source · Python · ★ 30,891 · +267 stars today
+✅ open source · Python · ★ 30,894 · +267 stars today
 
 **What it is:** Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
@@ -215,7 +215,7 @@ cd ~/agents
 ```
 
 ## [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
-✅ open source · Python · ★ 48,199 · +83 stars today
+✅ open source · Python · ★ 48,200 · +83 stars today
 
 **What it is:** AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 
@@ -227,7 +227,7 @@ npm exec --yes --ignore-scripts --package=agentic-awesome-skills@19.12.1 -- \
 ```
 
 ## [mksglu/context-mode](https://github.com/mksglu/context-mode)
-⚠️ licence: NOASSERTION · TypeScript · ★ 31,440 · +3556 stars this week
+⚠️ licence: NOASSERTION · TypeScript · ★ 31,442 · +3556 stars this week
 
 **What it is:** Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
@@ -238,7 +238,7 @@ npm exec --yes --ignore-scripts --package=agentic-awesome-skills@19.12.1 -- \
 ```
 
 ## [cursor/plugins](https://github.com/cursor/plugins)
-⚠️ licence: NONE · TypeScript · ★ 13,285 · +2040 stars this week
+⚠️ licence: NONE · TypeScript · ★ 13,286 · +2040 stars this week
 
 **What it is:** Cursor plugin specification and official plugins
 

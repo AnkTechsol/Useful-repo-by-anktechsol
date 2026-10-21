@@ -86,8 +86,8 @@
   "license": "GPL-3.0",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T05:03:37Z",
-  "stars": 140987,
-  "stars_prev": 140965,
+  "stars": 140988,
+  "stars_prev": 140987,
   "status": "ok"
  },
  "Egonex-AI/Understand-Anything": {
@@ -100,7 +100,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-12T10:24:59Z",
   "stars": 87297,
-  "stars_prev": 87294,
+  "stars_prev": 87297,
   "status": "ok"
  },
  "GarethManning/claude-education-skills": {
@@ -138,8 +138,8 @@
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-09-22T02:01:29Z",
-  "stars": 55734,
-  "stars_prev": 55727,
+  "stars": 55735,
+  "stars_prev": 55734,
   "status": "ok"
  },
  "Hainrixz/open-carrusel": {
@@ -165,7 +165,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T09:33:57Z",
   "stars": 53346,
-  "stars_prev": 53336,
+  "stars_prev": 53346,
   "status": "ok"
  },
  "KittenML/KittenTTS": {
@@ -190,8 +190,8 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T05:29:11Z",
-  "stars": 61283,
-  "stars_prev": 61214,
+  "stars": 61287,
+  "stars_prev": 61283,
   "status": "ok"
  },
  "OpenClaudia/openclaudia-skills": {
@@ -217,7 +217,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T14:56:48Z",
   "stars": 36097,
-  "stars_prev": 36092,
+  "stars_prev": 36097,
   "status": "ok"
  },
  "addsumtech/topic-to-video": {
@@ -243,7 +243,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T14:06:32Z",
   "stars": 31820,
-  "stars_prev": 31812,
+  "stars_prev": 31820,
   "status": "ok"
  },
  "alirezarezvani/claude-skills": {
@@ -256,7 +256,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-08-30T09:46:16Z",
   "stars": 28461,
-  "stars_prev": 28459,
+  "stars_prev": 28461,
   "status": "ok"
  },
  "anomalyco/opencode": {
@@ -267,9 +267,9 @@
   "language": "TypeScript",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T06:08:11Z",
-  "stars": 219167,
-  "stars_prev": 219142,
+  "pushed_at": "2026-10-21T06:13:17Z",
+  "stars": 219169,
+  "stars_prev": 219167,
   "status": "ok"
  },
  "anthropics/claude-plugins-official": {
@@ -282,7 +282,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T05:32:13Z",
   "stars": 43457,
-  "stars_prev": 43448,
+  "stars_prev": 43457,
   "status": "ok"
  },
  "anthropics/knowledge-work-plugins": {
@@ -292,9 +292,9 @@
   "full_name": "anthropics/knowledge-work-plugins",
   "language": "Python",
   "license": "Apache-2.0",
-  "prev_fetched": null,
+  "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T23:09:26Z",
-  "stars": 30893,
+  "stars": 30894,
   "stars_prev": 30893,
   "status": "ok"
  },
@@ -307,8 +307,8 @@
   "license": "NONE",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-09T18:45:52Z",
-  "stars": 182548,
-  "stars_prev": 182544,
+  "stars": 182549,
+  "stars_prev": 182548,
   "status": "ok"
  },
  "cathrynlavery/diagram-design": {
@@ -320,8 +320,8 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T02:07:06Z",
-  "stars": 59148,
-  "stars_prev": 59123,
+  "stars": 59149,
+  "stars_prev": 59148,
   "status": "ok"
  },
  "charanjit-singh/opendm": {
@@ -360,7 +360,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-26T01:14:54Z",
   "stars": 16974,
-  "stars_prev": 16973,
+  "stars_prev": 16974,
   "status": "ok"
  },
  "debpalash/VoiceStudio": {
@@ -373,7 +373,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T05:19:20Z",
   "stars": 79307,
-  "stars_prev": 79276,
+  "stars_prev": 79307,
   "status": "ok"
  },
  "dpearson2699/swift-ios-skills": {
@@ -399,7 +399,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T19:07:49Z",
   "stars": 22063,
-  "stars_prev": 22048,
+  "stars_prev": 22063,
   "status": "ok"
  },
  "evolsb/claude-legal-skill": {
@@ -438,7 +438,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T03:11:32Z",
   "stars": 37490,
-  "stars_prev": 37489,
+  "stars_prev": 37490,
   "status": "ok"
  },
  "h-f-fares/claude-remotion-skill": {
@@ -475,9 +475,9 @@
   "language": "TypeScript",
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T06:12:22Z",
-  "stars": 68660,
-  "stars_prev": 68639,
+  "pushed_at": "2026-10-21T06:13:43Z",
+  "stars": 68661,
+  "stars_prev": 68660,
   "status": "ok"
  },
  "imbad0202/academic-research-skills": {
@@ -490,7 +490,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T03:19:03Z",
   "stars": 53204,
-  "stars_prev": 53201,
+  "stars_prev": 53204,
   "status": "ok"
  },
  "kajisho5/ffmpeg-skill": {
@@ -503,7 +503,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T04:57:05Z",
   "stars": 2031,
-  "stars_prev": 2030,
+  "stars_prev": 2031,
   "status": "ok"
  },
  "kgelster/awesome-ecom-skills": {
@@ -528,8 +528,8 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T15:52:15Z",
-  "stars": 298939,
-  "stars_prev": 298902,
+  "stars": 298943,
+  "stars_prev": 298939,
   "status": "ok"
  },
  "miron-tech/wholesaler-claude-skills": {
@@ -554,8 +554,8 @@
   "license": "NOASSERTION",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T06:12:20Z",
-  "stars": 31440,
-  "stars_prev": 31422,
+  "stars": 31442,
+  "stars_prev": 31440,
   "status": "ok"
  },
  "motiful/product-shots": {
@@ -578,7 +578,7 @@
   "full_name": "msitarzewski/agency-agents",
   "language": "Shell",
   "license": "MIT",
-  "prev_fetched": null,
+  "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T16:48:24Z",
   "stars": 162546,
   "stars_prev": 162546,
@@ -620,7 +620,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-08T00:17:31Z",
   "stars": 34419,
-  "stars_prev": 34418,
+  "stars_prev": 34419,
   "status": "ok"
  },
  "philippprimisser-max/whisper-word-captions": {
@@ -711,7 +711,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T01:53:45Z",
   "stars": 539,
-  "stars_prev": 537,
+  "stars_prev": 539,
   "status": "ok"
  },
  "tashfeenahmed/freellmapi": {
@@ -723,8 +723,8 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T22:30:27Z",
-  "stars": 38469,
-  "stars_prev": 38454,
+  "stars": 38470,
+  "stars_prev": 38469,
   "status": "ok"
  },
  "thatrebeccarae/claude-marketing": {
@@ -763,7 +763,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T20:34:22Z",
   "stars": 35883,
-  "stars_prev": 35877,
+  "stars_prev": 35883,
   "status": "ok"
  },
  "vexyl-ai/vexyl-stt": {
@@ -815,7 +815,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T18:28:14Z",
   "stars": 41336,
-  "stars_prev": 41329,
+  "stars_prev": 41336,
   "status": "ok"
  },
  "zanwei/design-dna": {
@@ -828,7 +828,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-08-28T01:58:49Z",
   "stars": 2006,
-  "stars_prev": 2005,
+  "stars_prev": 2006,
   "status": "ok"
  },
  "zhuyansen/awesome-claude-video-skills": {
@@ -841,7 +841,7 @@
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T14:46:13Z",
   "stars": 768,
-  "stars_prev": 767,
+  "stars_prev": 768,
   "status": "ok"
  }
 }
