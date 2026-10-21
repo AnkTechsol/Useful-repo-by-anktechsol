@@ -2,7 +2,7 @@
 
 **The go-to hub for non-technical people, solo founders, small agencies, creators and AI agents who want to find useful open-source GitHub repos, and know how to use them.**
 
-Every day this repo reads [github.com/trending](https://github.com/trending), keeps the AI, agent, skill and automation projects, checks their licence, and links to plain-English **use cases and how-to guides**. It also keeps an evergreen list of helpful repos that are not trending. We never copy the projects: every link goes to the real repo.
+Every day this repo reads [github.com/trending](https://github.com/trending), keeps the AI, agent, skill and automation projects, checks their licence, and links to plain-English **use cases and how-to guides**. It also keeps an evergreen list of helpful repos that are not trending. We never copy the projects: every link goes to the real repo. Just want every link in one place? See [LINKS.md](LINKS.md).
 
 <!-- BEGIN:UPDATED -->
 Last updated: 2026-10-21 (UTC). Star counts are live from the GitHub API.
@@ -41,21 +41,21 @@ From [github.com/trending](https://github.com/trending) on 2026-10-21. Full dige
 
 More guides are added as repos trend. Template: [guides/_TEMPLATE.md](guides/_TEMPLATE.md).
 
-## Start here: pick your keyword
+## Jump to a section
 <!-- BEGIN:INDEX -->
-| Comment this | Go to |
+| Section group | Jump to |
 |---|---|
-| `SKILLS` | [Skill and plugin libraries (Claude Code, Codex and more)](#skill-and-plugin-libraries-claude-code-codex-and-more) |
-| `TRENDING` | [Trending agent tools and productivity](#trending-agent-tools-and-productivity) |
-| `CREATOR` | [Creator: video, reels and captions](#creator-video-reels-and-captions), [Creator: carousels, graphics and writing](#creator-carousels-graphics-and-writing), [Creator: voice and audio](#creator-voice-and-audio), [Creator: scheduling and comment-to-DM](#creator-scheduling-and-comment-to-dm) |
-| `INDIA` | [India toolkit (GST, PAN, UPI, Indian languages)](#india-toolkit-gst-pan-upi-indian-languages) |
-| `PROPERTY` | [Real estate](#real-estate) |
-| `CA` | [CA, accounting and finance](#ca-accounting-and-finance) |
-| `LEGAL` | [Legal](#legal) |
-| `SELLER` | [Online sellers and e-commerce](#online-sellers-and-e-commerce) |
-| `TEACH` | [Teachers, tutors and researchers](#teachers-tutors-and-researchers) |
-| `FREELANCE` | [Freelancers, coaches, agencies and marketing](#freelancers-coaches-agencies-and-marketing) |
-| `JOBS` | [Job search and careers](#job-search-and-careers) |
+| Skills | [Skill and plugin libraries (Claude Code, Codex and more)](#skill-and-plugin-libraries-claude-code-codex-and-more) |
+| Trending | [Trending agent tools and productivity](#trending-agent-tools-and-productivity) |
+| Creator | [Creator: video, reels and captions](#creator-video-reels-and-captions), [Creator: carousels, graphics and writing](#creator-carousels-graphics-and-writing), [Creator: voice and audio](#creator-voice-and-audio), [Creator: scheduling and comment-to-DM](#creator-scheduling-and-comment-to-dm) |
+| India | [India toolkit (GST, PAN, UPI, Indian languages)](#india-toolkit-gst-pan-upi-indian-languages) |
+| Property | [Real estate](#real-estate) |
+| Ca | [CA, accounting and finance](#ca-accounting-and-finance) |
+| Legal | [Legal](#legal) |
+| Seller | [Online sellers and e-commerce](#online-sellers-and-e-commerce) |
+| Teach | [Teachers, tutors and researchers](#teachers-tutors-and-researchers) |
+| Freelance | [Freelancers, coaches, agencies and marketing](#freelancers-coaches-agencies-and-marketing) |
+| Jobs | [Job search and careers](#job-search-and-careers) |
 <!-- END:INDEX -->
 
 ## How to add these as skills in Claude

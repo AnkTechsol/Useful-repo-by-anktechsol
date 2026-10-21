@@ -27,6 +27,7 @@ STATS = DATA / "stats.json"
 ADDED = DATA / "added.json"
 README = ROOT / "README.md"
 NEW_MD = ROOT / "NEW.md"
+LINKS_MD = ROOT / "LINKS.md"
 GUIDES = ROOT / "guides"
 TRENDING_JSON = DATA / "trending.json"
 
@@ -175,13 +176,13 @@ def build_lists(data, stats):
 
 
 def build_index(data, stats):
-    lines = ["| Comment this | Go to |", "|---|---|"]
+    lines = ["| Section group | Jump to |", "|---|---|"]
     seen = {}
     for c in data["categories"]:
         seen.setdefault(c["keyword"], []).append(c["title"])
     for kw, titles in seen.items():
         links = ", ".join(f"[{t}](#{slug(t)})" for t in titles)
-        lines.append(f"| `{kw}` | {links} |")
+        lines.append(f"| {kw.title()} | {links} |")
     return "\n".join(lines)
 
 
@@ -284,6 +285,48 @@ def build_guides():
     return "\n".join(lines)
 
 
+def write_links(data, stats):
+    """LINKS.md: every link with its name only. This is the one file the DM keywords send."""
+    base = "https://github.com/AnkTechsol/Useful-repo-by-anktechsol"
+    seen = set()
+    out = ["# All links", "",
+           f"Names and links only. Updated {TODAY.isoformat()}. Open-source repos only.", "",
+           "## This hub", "", f"- Useful-repo-by-anktechsol: {base}",
+           f"- Trending today (digest): {base}/blob/main/trending/latest.md",
+           f"- How-to guides: {base}/tree/main/guides", ""]
+
+    def line(repo):
+        if repo in seen:
+            return None
+        seen.add(repo)
+        return f"- {repo}: https://github.com/{repo}"
+
+    if TRENDING_JSON.exists():
+        t = json.loads(TRENDING_JSON.read_text())
+        rows = [line(r["repo"]) for r in t["repos"] if r.get("open_source") and not r.get("spike")]
+        rows = [r for r in rows if r]
+        if rows:
+            out += ["## Trending today", ""] + rows + [""]
+    guides = [g for g in sorted(GUIDES.glob("*.md")) if not g.name.startswith("_")]
+    if guides:
+        out += ["## Guides (use cases + how to)", ""]
+        for g in guides:
+            title = re.search(r"^#\s+(.+)$", g.read_text(), re.M)
+            out.append(f"- {title.group(1) if title else g.stem}: {base}/blob/main/guides/{g.name}")
+        out.append("")
+    for c in data["categories"]:
+        rows = []
+        for item in data["repos"]:
+            if item["category"] == c["id"] and classify(stats.get(item["repo"], {}))[0]:
+                ln = line(item["repo"])
+                if ln:
+                    rows.append(ln)
+        if rows:
+            out += [f"## {c['title']}", ""] + rows + [""]
+    out += ["## Ready-made India skills (this repo)", "", f"- Real estate, CA/GST and legal skills: {base}/tree/main/plugins", ""]
+    LINKS_MD.write_text("\n".join(out))
+
+
 def splice(text, name, body):
     pat = re.compile(rf"(<!-- BEGIN:{name} -->)(.*?)(<!-- END:{name} -->)", re.S)
     if not pat.search(text):
@@ -308,6 +351,7 @@ def main():
     text = splice(text, "NEW", build_new(data, stats, added))
     text = splice(text, "TRENDING", build_trending(data, stats))
     text = splice(text, "LIST", build_lists(data, stats))
+    write_links(data, stats)
     text = splice(text, "TODAY", build_today())
     text = splice(text, "GUIDES", build_guides())
     text = splice(text, "UPDATED", f"Last updated: {TODAY.isoformat()} (UTC). Star counts are live from the GitHub API.")
