@@ -12,3 +12,6 @@
 
 ## Add a gap-filler skill
 Create `plugins/<plugin>/skills/<skill-name>/SKILL.md` with `name` (same as folder) and `description` in the header, plus a `## Guardrails` section. Run `scripts/validate.py` and `scripts/build_zips.py`.
+
+## Write a guide
+Copy `guides/_TEMPLATE.md` to `guides/owner--repo.md`. Use only steps and commands from the repo's own README, and note costs and cautions. `scripts/validate.py` checks the sections. Guides are linked from the README automatically.

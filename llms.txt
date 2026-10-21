@@ -1,0 +1,10 @@
+# Useful-repo-by-anktechsol
+
+> A daily-updated directory of trending and evergreen open-source GitHub repos (AI agents, skills, plugins, MCP servers, automation) with plain-English use cases and setup guides for non-technical users, solo founders, agencies and creators.
+
+- [README](README.md): human overview, trending today, guides and curated lists
+- [AGENTS.md](AGENTS.md): how an AI agent should use this repo
+- [data/repos.json](data/repos.json): curated repos with categories
+- [data/trending.json](data/trending.json): today's trending AI repos
+- [trending/latest.md](trending/latest.md): latest digest
+- [guides/](guides/): use cases and how-to per repo

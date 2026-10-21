@@ -83,8 +83,25 @@ def check_plugins():
     return n
 
 
+def check_guides():
+    need = ["## What it is", "## Who it's for", "## Use cases", "## How to set up", "## Watch out"]
+    n = 0
+    for g in sorted((ROOT / "guides").glob("*.md")):
+        if g.name.startswith("_"):
+            continue
+        n += 1
+        t = g.read_text()
+        for h in need:
+            if h not in t:
+                err(f"guides/{g.name}: missing section '{h}'")
+        if "Setup level:" not in t:
+            err(f"guides/{g.name}: missing 'Setup level:' line")
+    return n
+
+
 def main():
     nr, ns = check_repos(), check_plugins()
+    check_guides()
     print(f"Checked {nr} listed repos and {ns} gap-filler skills.")
     for e in errors:
         print("ERROR", e)

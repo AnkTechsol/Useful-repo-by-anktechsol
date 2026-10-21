@@ -86,6 +86,8 @@
     {"repo": "GarethManning/claude-education-skills", "category": "education", "why": "165 evidence-based skills for teachers and school leaders", "type": "skill"},
     {"repo": "imbad0202/academic-research-skills", "category": "education", "why": "Research, write, review and revise workflow for academics", "type": "skill"},
 
+    {"repo": "msitarzewski/agency-agents", "category": "freelancer-agency", "why": "A whole AI agency of specialist agent personas; installs into Claude Code, Codex, Cursor and more", "type": "skill"},
+    {"repo": "anthropics/knowledge-work-plugins", "category": "freelancer-agency", "why": "11 Anthropic plugins for sales, support, legal, finance, marketing and more (Cowork and Claude Code)", "type": "plugin", "install": "claude plugin marketplace add anthropics/knowledge-work-plugins"},
     {"repo": "OpenClaudia/openclaudia-skills", "category": "freelancer-agency", "why": "77 marketing skills: SEO, content, email, ads, analytics", "type": "skill"},
     {"repo": "thatrebeccarae/claude-marketing", "category": "freelancer-agency", "why": "Marketing skill packs for Klaviyo, Shopify, GA4 and paid media", "type": "skill", "note": "Some skills use third-party platforms you may need an account for."},
     {"repo": "AgriciDaniel/claude-blog", "category": "freelancer-agency", "why": "30 blog skills for SEO and AI-citation-ready posts", "type": "skill"},

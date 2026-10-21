@@ -27,6 +27,8 @@ STATS = DATA / "stats.json"
 ADDED = DATA / "added.json"
 README = ROOT / "README.md"
 NEW_MD = ROOT / "NEW.md"
+GUIDES = ROOT / "guides"
+TRENDING_JSON = DATA / "trending.json"
 
 OSS_LICENSES = {
     "MIT", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "ISC", "MPL-2.0",
@@ -136,7 +138,9 @@ def row(item, s):
     install = f"`{esc(item['install'])}`" if item.get("install") else ""
     extra = "; ".join(x for x in (install, note) if x)
     name = item["repo"]
-    return (f"| [{name}](https://github.com/{name}) | {esc(item['why'])} | {item.get('type','')} "
+    g = GUIDES / (name.replace("/", "--") + ".md")
+    guide = f" · [guide](guides/{g.name})" if g.exists() else ""
+    return (f"| [{name}](https://github.com/{name}){guide} | {esc(item['why'])} | {item.get('type','')} "
             f"| {k(s['stars'])}{delta} | {s['license']} | {pushed}{flag} | {extra} |")
 
 
@@ -248,6 +252,38 @@ def build_new(data, stats, added):
     return "\n".join(short) if short else "_Nothing new this fortnight._"
 
 
+def build_today():
+    if not TRENDING_JSON.exists():
+        return "_Run scripts/trending.py to fill this in._"
+    d = json.loads(TRENDING_JSON.read_text())
+    rows = [r for r in d["repos"] if r.get("open_source") and not r.get("spike")][:8]
+    if not rows:
+        return "_No open-source AI repos found on trending today._"
+    lines = [f"From [github.com/trending](https://github.com/trending) on {d['date']}. Full digest with quick starts: [trending/latest.md](trending/latest.md).\n",
+             "| Repo | Why it's trending | Stars gained | Guide |", "|---|---|---|---|"]
+    for r in rows:
+        g = f"[use cases + how to]({r['guide']})" if r.get("guide") else "[quick start](trending/latest.md)"
+        lines.append(f"| [{r['repo']}](https://github.com/{r['repo']}) | {esc(r['summary'][:140])} | +{r['gained']} {r['period']} | {g} |")
+    return "\n".join(lines)
+
+
+def build_guides():
+    files = sorted(GUIDES.glob("*.md"))
+    files = [f for f in files if not f.name.startswith("_")]
+    if not files:
+        return "_No guides yet._"
+    lines = []
+    for f in files:
+        t = f.read_text()
+        title = re.search(r"^#\s+(.+)$", t, re.M)
+        meta = re.search(r"Setup level: \*\*(.*?)\*\*", t)
+        what = re.search(r"## What it is\s+(.+?)(?:\n\n|$)", t, re.S)
+        sentence = re.split(r"(?<=[.!?])\s", what.group(1).strip())[0] if what else ""
+        lvl = f" _(setup: {meta.group(1)})_" if meta else ""
+        lines.append(f"- [{title.group(1) if title else f.stem}](guides/{f.name}){lvl}: {sentence}")
+    return "\n".join(lines)
+
+
 def splice(text, name, body):
     pat = re.compile(rf"(<!-- BEGIN:{name} -->)(.*?)(<!-- END:{name} -->)", re.S)
     if not pat.search(text):
@@ -272,6 +308,8 @@ def main():
     text = splice(text, "NEW", build_new(data, stats, added))
     text = splice(text, "TRENDING", build_trending(data, stats))
     text = splice(text, "LIST", build_lists(data, stats))
+    text = splice(text, "TODAY", build_today())
+    text = splice(text, "GUIDES", build_guides())
     text = splice(text, "UPDATED", f"Last updated: {TODAY.isoformat()} (UTC). Star counts are live from the GitHub API.")
     README.write_text(text)
     listed = sum(1 for i in data["repos"] if classify(stats.get(i["repo"], {}))[0])
