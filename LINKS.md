@@ -35,11 +35,16 @@ Names and links only. Updated 2026-10-21. Open-source repos only.
 ## Guides (use cases + how to)
 
 - MadsLorentzen/ai-job-search: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/MadsLorentzen--ai-job-search.md
+- OrchestratorInc/agent-orchestrator: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/OrchestratorInc--agent-orchestrator.md
 - anthropics/knowledge-work-plugins: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/anthropics--knowledge-work-plugins.md
 - cathrynlavery/diagram-design: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/cathrynlavery--diagram-design.md
 - debpalash/VoiceStudio: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/debpalash--VoiceStudio.md
+- desplega-ai/agent-swarm: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/desplega-ai--agent-swarm.md
+- gastownhall/gastown: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/gastownhall--gastown.md
 - heygen-com/hyperframes: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/heygen-com--hyperframes.md
 - msitarzewski/agency-agents: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/msitarzewski--agency-agents.md
+- mvschwarz/openrig: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/mvschwarz--openrig.md
+- omnigent-ai/omnigent: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/omnigent-ai--omnigent.md
 
 ## Skill and plugin libraries (Claude Code, Codex and more)
 
@@ -59,6 +64,18 @@ Names and links only. Updated 2026-10-21. Open-source repos only.
 - earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
 - zanwei/design-dna: https://github.com/zanwei/design-dna
 - tashfeenahmed/freellmapi: https://github.com/tashfeenahmed/freellmapi
+
+## AI agent teams: open-source agency setups (beyond one Claude Code session)
+
+- omnigent-ai/omnigent: https://github.com/omnigent-ai/omnigent
+- mvschwarz/openrig: https://github.com/mvschwarz/openrig
+- OrchestratorInc/agent-orchestrator: https://github.com/OrchestratorInc/agent-orchestrator
+- gastownhall/gastown: https://github.com/gastownhall/gastown
+- desplega-ai/agent-swarm: https://github.com/desplega-ai/agent-swarm
+- lthoangg/OpenAgentd: https://github.com/lthoangg/OpenAgentd
+- awslabs/cli-agent-orchestrator: https://github.com/awslabs/cli-agent-orchestrator
+- VRSEN/agency-swarm: https://github.com/VRSEN/agency-swarm
+- VRSEN/OpenSwarm: https://github.com/VRSEN/OpenSwarm
 
 ## Creator: video, reels and captions
 

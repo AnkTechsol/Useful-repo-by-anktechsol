@@ -2,6 +2,7 @@
   "categories": [
     {"id": "skill-libraries", "title": "Skill and plugin libraries (Claude Code, Codex and more)", "keyword": "SKILLS"},
     {"id": "dev-productivity", "title": "Trending agent tools and productivity", "keyword": "TRENDING"},
+    {"id": "agent-teams", "title": "AI agent teams: open-source agency setups (beyond one Claude Code session)", "keyword": "TRENDING"},
     {"id": "creator-video", "title": "Creator: video, reels and captions", "keyword": "CREATOR"},
     {"id": "creator-graphics-writing", "title": "Creator: carousels, graphics and writing", "keyword": "CREATOR"},
     {"id": "creator-voice", "title": "Creator: voice and audio", "keyword": "CREATOR"},
@@ -42,6 +43,15 @@
     {"repo": "zanwei/design-dna", "category": "dev-productivity", "why": "Turn reference UIs into design tokens and matching UI", "type": "skill"},
     {"repo": "dpearson2699/swift-ios-skills", "category": "dev-productivity", "why": "Skills for iOS 26, Swift and SwiftUI", "type": "skill"},
     {"repo": "tashfeenahmed/freellmapi", "category": "dev-productivity", "why": "One /v1 endpoint routing to many free LLM providers", "type": "tool", "note": "Personal use. Read its terms."},
+    {"repo": "omnigent-ai/omnigent", "category": "agent-teams", "why": "Meta-harness: run Claude Code, Codex, Cursor, OpenCode, Pi and your own agents as one team, with any model", "type": "app", "install": "curl -fsSL https://raw.githubusercontent.com/omnigent-ai/omnigent/main/scripts/install_oss.sh | sh", "note": "Installer adds Databricks CLI by default (pass --no-databricks to skip). New (Jun 2026) and growing fast"},
+    {"repo": "mvschwarz/openrig", "category": "agent-teams", "why": "Define a persistent agent team (roles, shared context, owned work) in YAML and boot it with one command", "type": "cli", "note": "Needs Node 22/24, tmux, macOS/Linux (WSL2 on Windows) and a signed-in Claude Code or Codex"},
+    {"repo": "OrchestratorInc/agent-orchestrator", "category": "agent-teams", "why": "Desktop workspace to plan, run and supervise many coding agents from task to merged PR on a live Kanban", "type": "app", "note": "Desktop download from Releases; agents (Claude Code, Codex and others) still need their own accounts"},
+    {"repo": "gastownhall/gastown", "category": "agent-teams", "why": "'Mayor' coordinator plus worker agents across projects, with mailboxes, handoffs and git-backed work tracking", "type": "cli", "install": "brew install gastown", "note": "Claude Code CLI is the default runtime (Codex, Copilot, Gemini, Cursor supported); needs tmux"},
+    {"repo": "desplega-ai/agent-swarm", "category": "agent-teams", "why": "Self-hosted 'company OS': a lead agent takes work from Slack, GitHub or email and delegates to workers in Docker", "type": "tool", "install": "npx skills add desplega-ai/agent-swarm", "note": "Self-hosting needs Docker Compose; workers use your chosen harness (Claude Code, Codex, pi, opencode and more)"},
+    {"repo": "lthoangg/OpenAgentd", "category": "agent-teams", "why": "Local-first desktop coding agent that shows every step; 19+ model providers including local models", "type": "app", "install": "curl -fsSL https://openagentd.dev/install.sh | sh", "note": "Very new (Apr 2026) and small; test before relying on it"},
+    {"repo": "awslabs/cli-agent-orchestrator", "category": "agent-teams", "why": "A supervisor agent delegates to specialist coding CLIs running in isolated terminal sessions", "type": "cli", "install": "uv tool install git+https://github.com/awslabs/cli-agent-orchestrator.git@main --upgrade", "note": "Default provider is Kiro CLI; Claude Code, Codex and others via provider guides"},
+    {"repo": "VRSEN/agency-swarm", "category": "agent-teams", "why": "Python framework to build your own 'agency' of role-based agents that talk to each other", "type": "tool", "note": "For developers; needs an LLM API key"},
+    {"repo": "VRSEN/OpenSwarm", "category": "agent-teams", "why": "Multi-agent team for non-coding work: decks, reports, docs, images and charts from one prompt", "type": "app", "note": "Needs an OpenAI or Anthropic API key (paid usage)"},
 
     {"repo": "kajisho5/ffmpeg-skill", "category": "creator-video", "why": "42 FFmpeg tools + MCP for cutting, captions, 9:16 reframe. No cloud", "type": "skill"},
     {"repo": "6missedcalls/video-editing-skill", "category": "creator-video", "why": "Trim, jump cuts, Hormozi-style captions via FFmpeg + Whisper", "type": "skill"},

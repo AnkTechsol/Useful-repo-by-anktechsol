@@ -47,7 +47,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-14T08:51:33Z",
-  "stars": 2435,
+  "stars": 2446,
   "stars_prev": 2435,
   "status": "ok"
  },
@@ -60,7 +60,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-11T02:32:45Z",
-  "stars": 233,
+  "stars": 235,
   "stars_prev": 233,
   "status": "ok"
  },
@@ -73,7 +73,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T10:42:28Z",
-  "stars": 4,
+  "stars": 5,
   "stars_prev": 4,
   "status": "ok"
  },
@@ -85,9 +85,9 @@
   "language": "Python",
   "license": "GPL-3.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T05:03:37Z",
-  "stars": 140988,
-  "stars_prev": 140987,
+  "pushed_at": "2026-10-21T19:36:10Z",
+  "stars": 141393,
+  "stars_prev": 140988,
   "status": "ok"
  },
  "Egonex-AI/Understand-Anything": {
@@ -98,8 +98,8 @@
   "language": "TypeScript",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-12T10:24:59Z",
-  "stars": 87297,
+  "pushed_at": "2026-10-21T06:32:17Z",
+  "stars": 87453,
   "stars_prev": 87297,
   "status": "ok"
  },
@@ -112,7 +112,7 @@
   "license": "NOASSERTION",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-08-28T21:22:06Z",
-  "stars": 885,
+  "stars": 886,
   "stars_prev": 885,
   "status": "ok"
  },
@@ -151,7 +151,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-04-15T17:54:07Z",
-  "stars": 489,
+  "stars": 491,
   "stars_prev": 489,
   "status": "ok"
  },
@@ -164,7 +164,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T09:33:57Z",
-  "stars": 53346,
+  "stars": 53546,
   "stars_prev": 53346,
   "status": "ok"
  },
@@ -176,8 +176,8 @@
   "language": "Python",
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T03:54:30Z",
-  "stars": 16211,
+  "pushed_at": "2026-10-21T17:55:18Z",
+  "stars": 16225,
   "stars_prev": 16211,
   "status": "ok"
  },
@@ -185,13 +185,13 @@
   "archived": false,
   "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
   "fetched": "2026-10-21",
-  "full_name": "MadsLorentzen/ai-job-search",
+  "full_name": "ai-job-search-dev/ai-job-search",
   "language": "Python",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T05:29:11Z",
-  "stars": 61287,
-  "stars_prev": 61283,
+  "stars": 62822,
+  "stars_prev": 61287,
   "status": "ok"
  },
  "OpenClaudia/openclaudia-skills": {
@@ -202,9 +202,48 @@
   "language": "JavaScript",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T05:29:57Z",
+  "pushed_at": "2026-10-21T10:00:28Z",
   "stars": 718,
   "stars_prev": 718,
+  "status": "ok"
+ },
+ "OrchestratorInc/agent-orchestrator": {
+  "archived": false,
+  "description": "Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.",
+  "fetched": "2026-10-21",
+  "full_name": "OrchestratorInc/agent-orchestrator",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T19:24:55Z",
+  "stars": 13447,
+  "stars_prev": 13447,
+  "status": "ok"
+ },
+ "VRSEN/OpenSwarm": {
+  "archived": false,
+  "description": "Claude code for everything except coding",
+  "fetched": "2026-10-21",
+  "full_name": "VRSEN/OpenSwarm",
+  "language": "Python",
+  "license": "MIT",
+  "prev_fetched": null,
+  "pushed_at": "2026-07-26T02:31:48Z",
+  "stars": 2869,
+  "stars_prev": 2869,
+  "status": "ok"
+ },
+ "VRSEN/agency-swarm": {
+  "archived": false,
+  "description": "Reliable Multi-Agent Orchestration Framework",
+  "fetched": "2026-10-21",
+  "full_name": "VRSEN/agency-swarm",
+  "language": "Python",
+  "license": "MIT",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T19:26:29Z",
+  "stars": 4606,
+  "stars_prev": 4606,
   "status": "ok"
  },
  "VoltAgent/awesome-agent-skills": {
@@ -216,7 +255,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T14:56:48Z",
-  "stars": 36097,
+  "stars": 36129,
   "stars_prev": 36097,
   "status": "ok"
  },
@@ -242,7 +281,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T14:06:32Z",
-  "stars": 31820,
+  "stars": 31884,
   "stars_prev": 31820,
   "status": "ok"
  },
@@ -254,8 +293,8 @@
   "language": "Python",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-08-30T09:46:16Z",
-  "stars": 28461,
+  "pushed_at": "2026-10-21T13:16:04Z",
+  "stars": 28497,
   "stars_prev": 28461,
   "status": "ok"
  },
@@ -267,9 +306,9 @@
   "language": "TypeScript",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T06:13:17Z",
-  "stars": 219169,
-  "stars_prev": 219167,
+  "pushed_at": "2026-10-21T19:14:30Z",
+  "stars": 219586,
+  "stars_prev": 219169,
   "status": "ok"
  },
  "anthropics/claude-plugins-official": {
@@ -280,8 +319,8 @@
   "language": "Python",
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T05:32:13Z",
-  "stars": 43457,
+  "pushed_at": "2026-10-21T17:23:04Z",
+  "stars": 43590,
   "stars_prev": 43457,
   "status": "ok"
  },
@@ -293,9 +332,9 @@
   "language": "Python",
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T23:09:26Z",
-  "stars": 30894,
-  "stars_prev": 30893,
+  "pushed_at": "2026-10-21T07:39:12Z",
+  "stars": 31142,
+  "stars_prev": 30894,
   "status": "ok"
  },
  "anthropics/skills": {
@@ -307,21 +346,34 @@
   "license": "NONE",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-09T18:45:52Z",
-  "stars": 182549,
-  "stars_prev": 182548,
+  "stars": 182720,
+  "stars_prev": 182549,
+  "status": "ok"
+ },
+ "awslabs/cli-agent-orchestrator": {
+  "archived": false,
+  "description": "Multi-agent orchestration for AI coding CLIs \u2014 Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+  "fetched": "2026-10-21",
+  "full_name": "awslabs/cli-agent-orchestrator",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T12:26:19Z",
+  "stars": 1458,
+  "stars_prev": 1458,
   "status": "ok"
  },
  "cathrynlavery/diagram-design": {
   "archived": false,
-  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
   "fetched": "2026-10-21",
   "full_name": "cathrynlavery/diagram-design",
   "language": "HTML",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T02:07:06Z",
-  "stars": 59149,
-  "stars_prev": 59148,
+  "pushed_at": "2026-10-21T17:46:12Z",
+  "stars": 59445,
+  "stars_prev": 59149,
   "status": "ok"
  },
  "charanjit-singh/opendm": {
@@ -359,7 +411,7 @@
   "license": "NONE",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-26T01:14:54Z",
-  "stars": 16974,
+  "stars": 16982,
   "stars_prev": 16974,
   "status": "ok"
  },
@@ -372,8 +424,21 @@
   "license": "AGPL-3.0",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T05:19:20Z",
-  "stars": 79307,
+  "stars": 80128,
   "stars_prev": 79307,
+  "status": "ok"
+ },
+ "desplega-ai/agent-swarm": {
+  "archived": false,
+  "description": "Your Company Agentic Operating System",
+  "fetched": "2026-10-21",
+  "full_name": "desplega-ai/agent-swarm",
+  "language": "TypeScript",
+  "license": "MIT",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T19:25:31Z",
+  "stars": 915,
+  "stars_prev": 915,
   "status": "ok"
  },
  "dpearson2699/swift-ios-skills": {
@@ -385,7 +450,7 @@
   "license": "NOASSERTION",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-31T20:22:45Z",
-  "stars": 1219,
+  "stars": 1222,
   "stars_prev": 1219,
   "status": "ok"
  },
@@ -398,7 +463,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-20T19:07:49Z",
-  "stars": 22063,
+  "stars": 22232,
   "stars_prev": 22063,
   "status": "ok"
  },
@@ -411,7 +476,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-23T20:07:40Z",
-  "stars": 478,
+  "stars": 479,
   "stars_prev": 478,
   "status": "ok"
  },
@@ -423,9 +488,22 @@
   "language": "Python",
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T09:35:40Z",
-  "stars": 1184,
+  "pushed_at": "2026-10-21T09:33:57Z",
+  "stars": 1186,
   "stars_prev": 1184,
+  "status": "ok"
+ },
+ "gastownhall/gastown": {
+  "archived": false,
+  "description": "Gas Town - multi-agent workspace manager",
+  "fetched": "2026-10-21",
+  "full_name": "gastownhall/gastown",
+  "language": "Go",
+  "license": "MIT",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T02:45:42Z",
+  "stars": 18465,
+  "stars_prev": 18465,
   "status": "ok"
  },
  "gitroomhq/postiz-app": {
@@ -436,8 +514,8 @@
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T03:11:32Z",
-  "stars": 37490,
+  "pushed_at": "2026-10-21T16:25:55Z",
+  "stars": 37530,
   "stars_prev": 37490,
   "status": "ok"
  },
@@ -449,7 +527,7 @@
   "language": "TypeScript",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T06:04:23Z",
+  "pushed_at": "2026-10-21T15:09:49Z",
   "stars": 0,
   "stars_prev": 0,
   "status": "ok"
@@ -475,9 +553,9 @@
   "language": "TypeScript",
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T06:13:43Z",
-  "stars": 68661,
-  "stars_prev": 68660,
+  "pushed_at": "2026-10-21T19:19:48Z",
+  "stars": 69091,
+  "stars_prev": 68661,
   "status": "ok"
  },
  "imbad0202/academic-research-skills": {
@@ -489,7 +567,7 @@
   "license": "NOASSERTION",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T03:19:03Z",
-  "stars": 53204,
+  "stars": 53348,
   "stars_prev": 53204,
   "status": "ok"
  },
@@ -502,7 +580,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T04:57:05Z",
-  "stars": 2031,
+  "stars": 2035,
   "stars_prev": 2031,
   "status": "ok"
  },
@@ -515,8 +593,21 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-08-22T18:30:13Z",
-  "stars": 49,
+  "stars": 50,
   "stars_prev": 49,
+  "status": "ok"
+ },
+ "lthoangg/OpenAgentd": {
+  "archived": false,
+  "description": "Open-source desktop app for a local coding agent. Watch every tool call, diff, and terminal command. Bring your own models; sessions stay on your machine.",
+  "fetched": "2026-10-21",
+  "full_name": "lthoangg/OpenAgentd",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T07:29:54Z",
+  "stars": 213,
+  "stars_prev": 213,
   "status": "ok"
  },
  "mattpocock/skills": {
@@ -527,9 +618,9 @@
   "language": "Shell",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-19T15:52:15Z",
-  "stars": 298943,
-  "stars_prev": 298939,
+  "pushed_at": "2026-10-21T14:30:23Z",
+  "stars": 299690,
+  "stars_prev": 298943,
   "status": "ok"
  },
  "miron-tech/wholesaler-claude-skills": {
@@ -553,9 +644,9 @@
   "language": "TypeScript",
   "license": "NOASSERTION",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-21T06:12:20Z",
-  "stars": 31442,
-  "stars_prev": 31440,
+  "pushed_at": "2026-10-21T19:19:38Z",
+  "stars": 31616,
+  "stars_prev": 31442,
   "status": "ok"
  },
  "motiful/product-shots": {
@@ -567,7 +658,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-06-08T05:41:43Z",
-  "stars": 111,
+  "stars": 113,
   "stars_prev": 111,
   "status": "ok"
  },
@@ -580,8 +671,21 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T16:48:24Z",
-  "stars": 162546,
+  "stars": 162878,
   "stars_prev": 162546,
+  "status": "ok"
+ },
+ "mvschwarz/openrig": {
+  "archived": false,
+  "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+  "fetched": "2026-10-21",
+  "full_name": "mvschwarz/openrig",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T19:24:14Z",
+  "stars": 8047,
+  "stars_prev": 8047,
   "status": "ok"
  },
  "nexscope-ai/eCommerce-Skills": {
@@ -593,8 +697,21 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-08-26T08:10:10Z",
-  "stars": 1206,
+  "stars": 1214,
   "stars_prev": 1206,
+  "status": "ok"
+ },
+ "omnigent-ai/omnigent": {
+  "archived": false,
+  "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "fetched": "2026-10-21",
+  "full_name": "omnigent-ai/omnigent",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "prev_fetched": null,
+  "pushed_at": "2026-10-21T19:22:43Z",
+  "stars": 10962,
+  "stars_prev": 10962,
   "status": "ok"
  },
  "openaccountant/skills": {
@@ -619,7 +736,7 @@
   "license": "Apache-2.0",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-07-08T00:17:31Z",
-  "stars": 34419,
+  "stars": 34441,
   "stars_prev": 34419,
   "status": "ok"
  },
@@ -670,7 +787,7 @@
   "language": "Python",
   "license": "GPL-3.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T11:34:52Z",
+  "pushed_at": "2026-10-21T12:31:08Z",
   "stars": 276,
   "stars_prev": 276,
   "status": "ok"
@@ -710,7 +827,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-21T01:53:45Z",
-  "stars": 539,
+  "stars": 544,
   "stars_prev": 539,
   "status": "ok"
  },
@@ -722,9 +839,9 @@
   "language": "TypeScript",
   "license": "MIT",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T22:30:27Z",
-  "stars": 38470,
-  "stars_prev": 38469,
+  "pushed_at": "2026-10-21T12:37:14Z",
+  "stars": 38867,
+  "stars_prev": 38470,
   "status": "ok"
  },
  "thatrebeccarae/claude-marketing": {
@@ -748,8 +865,8 @@
   "language": "Python",
   "license": "CC-BY-SA-4.0",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T20:20:17Z",
-  "stars": 7667,
+  "pushed_at": "2026-10-21T18:01:29Z",
+  "stars": 7683,
   "stars_prev": 7667,
   "status": "ok"
  },
@@ -762,7 +879,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T20:34:22Z",
-  "stars": 35883,
+  "stars": 35958,
   "stars_prev": 35883,
   "status": "ok"
  },
@@ -814,7 +931,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-10-19T18:28:14Z",
-  "stars": 41336,
+  "stars": 41445,
   "stars_prev": 41336,
   "status": "ok"
  },
@@ -827,7 +944,7 @@
   "license": "MIT",
   "prev_fetched": "2026-10-21",
   "pushed_at": "2026-08-28T01:58:49Z",
-  "stars": 2006,
+  "stars": 2010,
   "stars_prev": 2006,
   "status": "ok"
  },
@@ -839,8 +956,8 @@
   "language": null,
   "license": "NOASSERTION",
   "prev_fetched": "2026-10-21",
-  "pushed_at": "2026-10-20T14:46:13Z",
-  "stars": 768,
+  "pushed_at": "2026-10-21T15:04:25Z",
+  "stars": 788,
   "stars_prev": 768,
   "status": "ok"
  }
