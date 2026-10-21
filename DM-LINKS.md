@@ -12,6 +12,11 @@ JUGAAD, MEHNAT, AKELA, BHEJO, FREE, TECH
 In your comment-to-DM tool, add these trigger words (case does not matter in most tools):
 JUGAAD, JUGAD, MEHNAT, MEHANT, AKELA, BHEJO, FREE, TECH
 
+## Keyword → video
+| Keyword | Video | Repo (sent by DM, never shown on screen) |
+|---|---|---|
+| JUGAAD | V03: one prompt → system architecture diagram | cathrynlavery/diagram-design |
+
 ## DM text (use for every keyword)
 ```
 Ye lo 👇 saare free GitHub repos ki list (naam + link):

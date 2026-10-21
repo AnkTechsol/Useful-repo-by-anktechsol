@@ -24,6 +24,9 @@ Founders, consultants and creators who need good-looking diagrams for decks, pro
 3. Codex: `codex plugin marketplace add cathrynlavery/diagram-design` then `codex plugin add diagram-design@diagram-design`.
 4. Ask in plain words, for example: "Make an architecture diagram of my app: frontend, backend, database, cache." Then: "Onboard diagram-design to https://yoursite.com" to copy your site's colours and fonts.
 
+## Tested
+- 2026-10-21: made an architecture diagram (frontend, backend, database, Redis cache) as one HTML file and checked it with the repo's validator: `python3 skills/diagram-design/scripts/self_check.py <file>.html` printed `OK`.
+
 ## Watch out
 - Install only from the official repo; the README warns that listings under other names are unofficial copies.
 - It writes files to your computer; open the result in a browser to check it.
