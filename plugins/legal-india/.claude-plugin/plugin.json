@@ -1,0 +1,9 @@
+{
+  "name": "legal-india",
+  "description": "Contract risk review, legal notice drafts, client intake timelines and NDA drafting for Indian lawyers. Drafts only; lawyer review required.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "AnkTechsol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "real-estate-india",
+  "description": "Listings, lead follow-ups, buyer briefs and a due-diligence checklist for Indian real estate agents.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "AnkTechsol"
+  }
+}

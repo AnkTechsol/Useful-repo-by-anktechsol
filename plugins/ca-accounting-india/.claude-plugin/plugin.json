@@ -1,0 +1,9 @@
+{
+  "name": "ca-accounting-india",
+  "description": "GSTIN/invoice checks, client document reminders, notice reply drafts and bank statement categorising for CAs and bookkeepers.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "AnkTechsol"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "anktechsol-useful-repos",
+  "owner": {
+    "name": "AnkTechsol"
+  },
+  "metadata": {
+    "description": "India-focused gap-filler skills for Claude: real estate, CA/accounting and legal. Free, no API keys. The curated list of trending repos lives in the README."
+  },
+  "plugins": [
+    {
+      "name": "real-estate-india",
+      "source": "./plugins/real-estate-india",
+      "description": "Listings, lead follow-ups, buyer briefs and a due-diligence checklist for Indian real estate agents."
+    },
+    {
+      "name": "ca-accounting-india",
+      "source": "./plugins/ca-accounting-india",
+      "description": "GSTIN/invoice checks, client document reminders, notice reply drafts and bank statement categorising for CAs and bookkeepers."
+    },
+    {
+      "name": "legal-india",
+      "source": "./plugins/legal-india",
+      "description": "Contract risk review, legal notice drafts, client intake timelines and NDA drafting for Indian lawyers (drafts only, lawyer review required)."
+    }
+  ]
+}

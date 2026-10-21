@@ -1,0 +1,11 @@
+post_id,repo,section_keyword,added_date,hook_idea,video_status,posted_date,post_url,comments,keyword_comments,dms_sent,link_clicks,setup_requests,notes
+V01,Egonex-AI/Understand-Anything,TRENDING,seed,"Turn any codebase into a map you can explore",idea,,,,,,,,
+V02,heygen-com/hyperframes,CREATOR,seed,"Your AI makes videos from plain HTML",idea,,,,,,,,
+V03,cathrynlavery/diagram-design,TRENDING,seed,"44 diagram types made by one prompt",idea,,,,,,,,
+V04,kajisho5/ffmpeg-skill,CREATOR,seed,"Cut, caption and reframe videos by chatting",idea,,,,,,,,
+V05,Hainrixz/open-carrusel,CREATOR,seed,"Make Instagram carousels by chatting with Claude",idea,,,,,,,,
+V06,rehan1020/MCP-India-Stack,INDIA,seed,"Validate GSTIN, PAN and UPI IDs with your AI",idea,,,,,,,,
+V07,nexscope-ai/eCommerce-Skills,SELLER,seed,"157 free skills for online sellers",idea,,,,,,,,
+V08,evolsb/claude-legal-skill,LEGAL,seed,"Spot risky contract clauses in minutes (draft only)",idea,,,,,,,,
+V09,openaccountant/skills,CA,seed,"44 finance skills for small business books",idea,,,,,,,,
+V10,vercel-labs/skills,SKILLS,seed,"One command installs a skill into many AI tools",idea,,,,,,,,
