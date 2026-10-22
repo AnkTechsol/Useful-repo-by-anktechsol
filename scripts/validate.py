@@ -94,6 +94,10 @@ def check_guides():
         for h in need:
             if h not in t:
                 err(f"guides/{g.name}: missing section '{h}'")
+        if "## Our take" not in t:
+            print(f"WARN guides/{g.name}: missing '## Our take' (our own verdict, must be last)")
+        elif t.rstrip().rfind("## Our take") < t.rfind("\n## "):
+            err(f"guides/{g.name}: '## Our take' must be the last section")
         if "Setup level:" not in t:
             err(f"guides/{g.name}: missing 'Setup level:' line")
     return n

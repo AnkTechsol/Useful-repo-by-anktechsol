@@ -18,3 +18,8 @@ Which kind of person or business.
 
 ## Watch out
 - Costs, accounts needed, privacy, licence limits, alpha status, anything unusual.
+
+## Our take
+**What we think:** our honest opinion after testing it ourselves: what impressed us, what is weak or risky. Not copied from the README.
+
+**Where to use it:** the situations and people it fits best, and where to skip it.
