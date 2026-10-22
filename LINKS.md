@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-21. Open-source repos only.
+Names and links only. Updated 2026-10-22. Open-source repos only.
 
 ## This hub
 
@@ -10,27 +10,28 @@ Names and links only. Updated 2026-10-21. Open-source repos only.
 
 ## Trending today
 
+- morluto/rea: https://github.com/morluto/rea
 - debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
-- storytold/artcraft: https://github.com/storytold/artcraft
+- anomalyco/opencode: https://github.com/anomalyco/opencode
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
 - anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
-- cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
-- MadsLorentzen/ai-job-search: https://github.com/MadsLorentzen/ai-job-search
-- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- stablyai/orca: https://github.com/stablyai/orca
-- android/skills: https://github.com/android/skills
-- anomalyco/opencode: https://github.com/anomalyco/opencode
-- DietrichGebert/ponytail: https://github.com/DietrichGebert/ponytail
-- Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
-- Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
+- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- msitarzewski/agency-agents: https://github.com/msitarzewski/agency-agents
-- headroomlabs-ai/headroom: https://github.com/headroomlabs-ai/headroom
-- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
-- vllm-project/vllm: https://github.com/vllm-project/vllm
+- hugohe3/ppt-master: https://github.com/hugohe3/ppt-master
+- DietrichGebert/ponytail: https://github.com/DietrichGebert/ponytail
+- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
+- earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
+- stablyai/orca: https://github.com/stablyai/orca
+- Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
+- android/skills: https://github.com/android/skills
+- Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
 - wshobson/agents: https://github.com/wshobson/agents
-- sickn33/agentic-awesome-skills: https://github.com/sickn33/agentic-awesome-skills
+- supabase/supabase: https://github.com/supabase/supabase
+- headroomlabs-ai/headroom: https://github.com/headroomlabs-ai/headroom
+- vllm-project/vllm: https://github.com/vllm-project/vllm
+- strelov1/freehire: https://github.com/strelov1/freehire
+- akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
 
 ## Guides (use cases + how to)
 
@@ -58,10 +59,9 @@ Names and links only. Updated 2026-10-21. Open-source repos only.
 ## Trending agent tools and productivity
 
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
+- cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
-- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ahujasid/mcp-for-blender: https://github.com/ahujasid/mcp-for-blender
-- earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
 - zanwei/design-dna: https://github.com/zanwei/design-dna
 - tashfeenahmed/freellmapi: https://github.com/tashfeenahmed/freellmapi
 
@@ -134,9 +134,15 @@ Names and links only. Updated 2026-10-21. Open-source repos only.
 
 ## Freelancers, coaches, agencies and marketing
 
+- msitarzewski/agency-agents: https://github.com/msitarzewski/agency-agents
+- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - OpenClaudia/openclaudia-skills: https://github.com/OpenClaudia/openclaudia-skills
 - thatrebeccarae/claude-marketing: https://github.com/thatrebeccarae/claude-marketing
 - AgriciDaniel/claude-blog: https://github.com/AgriciDaniel/claude-blog
+
+## Job search and careers
+
+- MadsLorentzen/ai-job-search: https://github.com/MadsLorentzen/ai-job-search
 
 ## Ready-made India skills (this repo)
 

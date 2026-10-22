@@ -6,7 +6,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** A whole AI agency of specialist agent personas; installs into Claude Code, Codex, Cursor and more
 - **Category / DM keyword:** Freelancers, coaches, agencies and marketing / `FREELANCE`
-- **Stars:** 162.9k  |  **Licence:** MIT  |  **Last push:** 2026-10-19
+- **Stars:** 163.0k  |  **Licence:** MIT  |  **Last push:** 2026-10-19
 - **Type:** skill
 - **Install:** see the repo README
 - **Caution:** read the SKILL.md or code before installing
@@ -16,7 +16,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** 11 Anthropic plugins for sales, support, legal, finance, marketing and more (Cowork and Claude Code)
 - **Category / DM keyword:** Freelancers, coaches, agencies and marketing / `FREELANCE`
-- **Stars:** 31.1k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-21
+- **Stars:** 31.2k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-22
 - **Type:** plugin
 - **Install:** claude plugin marketplace add anthropics/knowledge-work-plugins
 - **Caution:** read the SKILL.md or code before installing
@@ -36,7 +36,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** Desktop workspace to plan, run and supervise many coding agents from task to merged PR on a live Kanban
 - **Category / DM keyword:** AI agent teams: open-source agency setups (beyond one Claude Code session) / `TRENDING`
-- **Stars:** 13.4k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-21
+- **Stars:** 13.5k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-22
 - **Type:** app
 - **Install:** see the repo README
 - **Caution:** Desktop download from Releases; agents (Claude Code, Codex and others) still need their own accounts
@@ -46,7 +46,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** Meta-harness: run Claude Code, Codex, Cursor, OpenCode, Pi and your own agents as one team, with any model
 - **Category / DM keyword:** AI agent teams: open-source agency setups (beyond one Claude Code session) / `TRENDING`
-- **Stars:** 11.0k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-21
+- **Stars:** 11.0k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-22
 - **Type:** app
 - **Install:** curl -fsSL https://raw.githubusercontent.com/omnigent-ai/omnigent/main/scripts/install_oss.sh | sh
 - **Caution:** Installer adds Databricks CLI by default (pass --no-databricks to skip). New (Jun 2026) and growing fast
@@ -56,7 +56,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** Define a persistent agent team (roles, shared context, owned work) in YAML and boot it with one command
 - **Category / DM keyword:** AI agent teams: open-source agency setups (beyond one Claude Code session) / `TRENDING`
-- **Stars:** 8.0k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-21
+- **Stars:** 8.1k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-22
 - **Type:** cli
 - **Install:** see the repo README
 - **Caution:** Needs Node 22/24, tmux, macOS/Linux (WSL2 on Windows) and a signed-in Claude Code or Codex
@@ -86,7 +86,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** A supervisor agent delegates to specialist coding CLIs running in isolated terminal sessions
 - **Category / DM keyword:** AI agent teams: open-source agency setups (beyond one Claude Code session) / `TRENDING`
-- **Stars:** 1.5k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-21
+- **Stars:** 1.5k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-22
 - **Type:** cli
 - **Install:** uv tool install git+https://github.com/awslabs/cli-agent-orchestrator.git@main --upgrade
 - **Caution:** Default provider is Kiro CLI; Claude Code, Codex and others via provider guides
@@ -96,7 +96,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** Self-hosted 'company OS': a lead agent takes work from Slack, GitHub or email and delegates to workers in Docker
 - **Category / DM keyword:** AI agent teams: open-source agency setups (beyond one Claude Code session) / `TRENDING`
-- **Stars:** 915  |  **Licence:** MIT  |  **Last push:** 2026-10-21
+- **Stars:** 924  |  **Licence:** MIT  |  **Last push:** 2026-10-22
 - **Type:** tool
 - **Install:** npx skills add desplega-ai/agent-swarm
 - **Caution:** Self-hosting needs Docker Compose; workers use your chosen harness (Claude Code, Codex, pi, opencode and more)
@@ -106,7 +106,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-21
 - **One line:** Local-first desktop coding agent that shows every step; 19+ model providers including local models
 - **Category / DM keyword:** AI agent teams: open-source agency setups (beyond one Claude Code session) / `TRENDING`
-- **Stars:** 213  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-21
+- **Stars:** 213  |  **Licence:** Apache-2.0  |  **Last push:** 2026-10-22
 - **Type:** app
 - **Install:** curl -fsSL https://openagentd.dev/install.sh | sh
 - **Caution:** Very new (Apr 2026) and small; test before relying on it
