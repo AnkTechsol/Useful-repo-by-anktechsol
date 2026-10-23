@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-22. Open-source repos only.
+Names and links only. Updated 2026-10-23. Open-source repos only.
 
 ## This hub
 
@@ -12,26 +12,22 @@ Names and links only. Updated 2026-10-22. Open-source repos only.
 
 - morluto/rea: https://github.com/morluto/rea
 - debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
+- stablyai/orca: https://github.com/stablyai/orca
 - anomalyco/opencode: https://github.com/anomalyco/opencode
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
 - anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
+- Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
-- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- hugohe3/ppt-master: https://github.com/hugohe3/ppt-master
-- DietrichGebert/ponytail: https://github.com/DietrichGebert/ponytail
+- akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
+- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
-- stablyai/orca: https://github.com/stablyai/orca
+- DietrichGebert/ponytail: https://github.com/DietrichGebert/ponytail
 - Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
 - android/skills: https://github.com/android/skills
-- Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
-- wshobson/agents: https://github.com/wshobson/agents
 - supabase/supabase: https://github.com/supabase/supabase
-- headroomlabs-ai/headroom: https://github.com/headroomlabs-ai/headroom
-- vllm-project/vllm: https://github.com/vllm-project/vllm
-- strelov1/freehire: https://github.com/strelov1/freehire
-- akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
+- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
+- luongnv89/claude-howto: https://github.com/luongnv89/claude-howto
 
 ## Guides (use cases + how to)
 
@@ -52,6 +48,7 @@ Names and links only. Updated 2026-10-22. Open-source repos only.
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
 - mattpocock/skills: https://github.com/mattpocock/skills
+- wshobson/agents: https://github.com/wshobson/agents
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
 - VoltAgent/awesome-agent-skills: https://github.com/VoltAgent/awesome-agent-skills
 - charlie947/skills-for-everyone: https://github.com/charlie947/skills-for-everyone
@@ -62,6 +59,7 @@ Names and links only. Updated 2026-10-22. Open-source repos only.
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
 - ahujasid/mcp-for-blender: https://github.com/ahujasid/mcp-for-blender
+- earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
 - zanwei/design-dna: https://github.com/zanwei/design-dna
 - tashfeenahmed/freellmapi: https://github.com/tashfeenahmed/freellmapi
 
@@ -135,7 +133,6 @@ Names and links only. Updated 2026-10-22. Open-source repos only.
 ## Freelancers, coaches, agencies and marketing
 
 - msitarzewski/agency-agents: https://github.com/msitarzewski/agency-agents
-- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - OpenClaudia/openclaudia-skills: https://github.com/OpenClaudia/openclaudia-skills
 - thatrebeccarae/claude-marketing: https://github.com/thatrebeccarae/claude-marketing
 - AgriciDaniel/claude-blog: https://github.com/AgriciDaniel/claude-blog
