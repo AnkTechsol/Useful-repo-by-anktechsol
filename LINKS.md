@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-23. Open-source repos only.
+Names and links only. Updated 2026-10-24. Open-source repos only.
 
 ## This hub
 
@@ -15,19 +15,18 @@ Names and links only. Updated 2026-10-23. Open-source repos only.
 - stablyai/orca: https://github.com/stablyai/orca
 - anomalyco/opencode: https://github.com/anomalyco/opencode
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
-- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
-- K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
-- ruvnet/ruflo: https://github.com/ruvnet/ruflo
+- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
+- ruvnet/ruflo: https://github.com/ruvnet/ruflo
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
+- K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- DietrichGebert/ponytail: https://github.com/DietrichGebert/ponytail
-- Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
 - android/skills: https://github.com/android/skills
-- supabase/supabase: https://github.com/supabase/supabase
+- NVIDIA/OpenShell: https://github.com/NVIDIA/OpenShell
+- elie222/rakazo: https://github.com/elie222/rakazo
 - anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
-- luongnv89/claude-howto: https://github.com/luongnv89/claude-howto
+- SnailSploit/Claude-Red: https://github.com/SnailSploit/Claude-Red
 
 ## Guides (use cases + how to)
 
