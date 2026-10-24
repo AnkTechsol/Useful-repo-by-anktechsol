@@ -30,10 +30,12 @@ Names and links only. Updated 2026-10-24. Open-source repos only.
 
 ## Guides (use cases + how to)
 
+- JuliusBrussee/caveman: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/JuliusBrussee--caveman.md
 - MadsLorentzen/ai-job-search: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/MadsLorentzen--ai-job-search.md
 - OrchestratorInc/agent-orchestrator: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/OrchestratorInc--agent-orchestrator.md
 - anthropics/knowledge-work-plugins: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/anthropics--knowledge-work-plugins.md
 - cathrynlavery/diagram-design: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/cathrynlavery--diagram-design.md
+- ccusage/ccusage: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/ccusage--ccusage.md
 - debpalash/VoiceStudio: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/debpalash--VoiceStudio.md
 - desplega-ai/agent-swarm: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/desplega-ai--agent-swarm.md
 - gastownhall/gastown: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/gastownhall--gastown.md
@@ -41,6 +43,8 @@ Names and links only. Updated 2026-10-24. Open-source repos only.
 - msitarzewski/agency-agents: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/msitarzewski--agency-agents.md
 - mvschwarz/openrig: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/mvschwarz--openrig.md
 - omnigent-ai/omnigent: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/omnigent-ai--omnigent.md
+- rtk-ai/rtk: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/rtk-ai--rtk.md
+- tirth8205/code-review-graph: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/guides/tirth8205--code-review-graph.md
 
 ## Skill and plugin libraries (Claude Code, Codex and more)
 
@@ -54,6 +58,9 @@ Names and links only. Updated 2026-10-24. Open-source repos only.
 
 ## Trending agent tools and productivity
 
+- rtk-ai/rtk: https://github.com/rtk-ai/rtk
+- JuliusBrussee/caveman: https://github.com/JuliusBrussee/caveman
+- tirth8205/code-review-graph: https://github.com/tirth8205/code-review-graph
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc

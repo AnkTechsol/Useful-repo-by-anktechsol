@@ -32,6 +32,10 @@
     {"repo": "charlie947/skills-for-everyone", "category": "skill-libraries", "why": "7 skills for people who use Claude daily but do not code", "type": "skill"},
 
     {"repo": "mksglu/context-mode", "category": "dev-productivity", "why": "Cuts agent context use by sandboxing tool output", "type": "plugin", "install": "/plugin marketplace add mksglu/context-mode"},
+    {"repo": "ccusage/ccusage", "category": "dev-productivity", "why": "See what your Claude Code (and other agents) usage would cost, from local logs", "type": "cli", "install": "npx ccusage@latest claude daily"},
+    {"repo": "rtk-ai/rtk", "category": "dev-productivity", "why": "Shrinks test, git and command output before your agent reads it", "type": "cli", "install": "brew install rtk-ai/tap/rtk-oss && rtk init -g", "note": "Use the rtk-oss edition (Apache-2.0 only); the default edition adds BUSL-licensed parts."},
+    {"repo": "JuliusBrussee/caveman", "category": "dev-productivity", "why": "Makes your agent answer in fewer words, code kept exact", "type": "plugin", "install": "claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman", "note": "On small one-off questions it can cost more (its rules add input tokens)."},
+    {"repo": "tirth8205/code-review-graph", "category": "dev-productivity", "why": "Code map so your agent reads only the code a change touches", "type": "cli", "install": "pip install code-review-graph && code-review-graph install --platform claude-code && code-review-graph build", "note": "Adds files and a git pre-commit hook to your project."},
     {"repo": "Egonex-AI/Understand-Anything", "category": "dev-productivity", "why": "Turn any codebase into an explorable knowledge graph", "type": "skill"},
     {"repo": "cathrynlavery/diagram-design", "category": "dev-productivity", "why": "Agent skill with 44 diagram types as HTML/SVG", "type": "skill"},
     {"repo": "heygen-com/hyperframes", "category": "dev-productivity", "why": "Render video from HTML, built for agents", "type": "tool"},

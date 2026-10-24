@@ -16,6 +16,7 @@ JUGAAD, JUGAD, MEHNAT, MEHANT, AKELA, BHEJO, FREE, TECH
 | Keyword | Video | Repo (sent by DM, never shown on screen) |
 |---|---|---|
 | JUGAAD | V03: one prompt → system architecture diagram | cathrynlavery/diagram-design |
+| JUGAAD | V11: Claude Code bill, 4 free fixes (BIL-01) | ccusage/ccusage, rtk-ai/rtk, JuliusBrussee/caveman, tirth8205/code-review-graph |
 
 ## DM text (use for every keyword)
 ```
