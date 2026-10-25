@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-24. Open-source repos only.
+Names and links only. Updated 2026-10-25. Open-source repos only.
 
 ## This hub
 
@@ -11,22 +11,26 @@ Names and links only. Updated 2026-10-24. Open-source repos only.
 ## Trending today
 
 - morluto/rea: https://github.com/morluto/rea
-- debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
 - stablyai/orca: https://github.com/stablyai/orca
+- Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
 - anomalyco/opencode: https://github.com/anomalyco/opencode
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
 - Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
-- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
+- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
-- K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
+- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
+- vllm-project/vllm: https://github.com/vllm-project/vllm
 - android/skills: https://github.com/android/skills
 - NVIDIA/OpenShell: https://github.com/NVIDIA/OpenShell
-- elie222/rakazo: https://github.com/elie222/rakazo
-- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
-- SnailSploit/Claude-Red: https://github.com/SnailSploit/Claude-Red
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
+- makecindy/cindy: https://github.com/makecindy/cindy
+- Nutlope/hallmark: https://github.com/Nutlope/hallmark
+- luongnv89/claude-howto: https://github.com/luongnv89/claude-howto
+- google-gemini/gemini-cli: https://github.com/google-gemini/gemini-cli
+- aws/agent-toolkit-for-aws: https://github.com/aws/agent-toolkit-for-aws
 
 ## Guides (use cases + how to)
 
@@ -52,6 +56,7 @@ Names and links only. Updated 2026-10-24. Open-source repos only.
 - vercel-labs/skills: https://github.com/vercel-labs/skills
 - mattpocock/skills: https://github.com/mattpocock/skills
 - wshobson/agents: https://github.com/wshobson/agents
+- K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
 - VoltAgent/awesome-agent-skills: https://github.com/VoltAgent/awesome-agent-skills
 - charlie947/skills-for-everyone: https://github.com/charlie947/skills-for-everyone
@@ -100,6 +105,7 @@ Names and links only. Updated 2026-10-24. Open-source repos only.
 ## Creator: voice and audio
 
 - KittenML/KittenTTS: https://github.com/KittenML/KittenTTS
+- debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
 
 ## Creator: scheduling and comment-to-DM
 
