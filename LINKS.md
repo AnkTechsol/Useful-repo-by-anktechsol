@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-25. Open-source repos only.
+Names and links only. Updated 2026-10-26. Open-source repos only.
 
 ## This hub
 
@@ -10,7 +10,6 @@ Names and links only. Updated 2026-10-25. Open-source repos only.
 
 ## Trending today
 
-- morluto/rea: https://github.com/morluto/rea
 - stablyai/orca: https://github.com/stablyai/orca
 - Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
 - anomalyco/opencode: https://github.com/anomalyco/opencode
@@ -18,19 +17,18 @@ Names and links only. Updated 2026-10-25. Open-source repos only.
 - Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
 - akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
-- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
-- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
+- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
+- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
+- debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
 - vllm-project/vllm: https://github.com/vllm-project/vllm
-- android/skills: https://github.com/android/skills
-- NVIDIA/OpenShell: https://github.com/NVIDIA/OpenShell
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- makecindy/cindy: https://github.com/makecindy/cindy
 - Nutlope/hallmark: https://github.com/Nutlope/hallmark
-- luongnv89/claude-howto: https://github.com/luongnv89/claude-howto
-- google-gemini/gemini-cli: https://github.com/google-gemini/gemini-cli
-- aws/agent-toolkit-for-aws: https://github.com/aws/agent-toolkit-for-aws
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
+- android/skills: https://github.com/android/skills
+- makecindy/cindy: https://github.com/makecindy/cindy
+- TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
+- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
+- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
 
 ## Guides (use cases + how to)
 
@@ -69,6 +67,7 @@ Names and links only. Updated 2026-10-25. Open-source repos only.
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
+- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ahujasid/mcp-for-blender: https://github.com/ahujasid/mcp-for-blender
 - earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
 - zanwei/design-dna: https://github.com/zanwei/design-dna
@@ -105,7 +104,6 @@ Names and links only. Updated 2026-10-25. Open-source repos only.
 ## Creator: voice and audio
 
 - KittenML/KittenTTS: https://github.com/KittenML/KittenTTS
-- debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
 
 ## Creator: scheduling and comment-to-DM
 
