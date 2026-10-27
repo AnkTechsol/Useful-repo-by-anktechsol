@@ -5,7 +5,7 @@
 Every day this repo reads [github.com/trending](https://github.com/trending), keeps the AI, agent, skill and automation projects, checks their licence, and links to plain-English **use cases and how-to guides**. It also keeps an evergreen list of helpful repos that are not trending. We never copy the projects: every link goes to the real repo. Just want every link in one place? See [LINKS.md](LINKS.md).
 
 <!-- BEGIN:UPDATED -->
-Last updated: 2026-10-26 (UTC). Star counts are live from the GitHub API.
+Last updated: 2026-10-27 (UTC). Star counts are live from the GitHub API.
 <!-- END:UPDATED -->
 
 ## Who this is for
@@ -15,18 +15,18 @@ Last updated: 2026-10-26 (UTC). Star counts are live from the GitHub API.
 
 ## Trending today (AI, agents, skills)
 <!-- BEGIN:TODAY -->
-From [github.com/trending](https://github.com/trending) on 2026-10-26. Full digest with quick starts: [trending/latest.md](trending/latest.md).
+From [github.com/trending](https://github.com/trending) on 2026-10-27. Full digest with quick starts: [trending/latest.md](trending/latest.md).
 
 | Repo | Why it's trending | Stars gained | Guide |
 |---|---|---|---|
-| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Availabl | +9622 this week | [quick start](trending/latest.md) |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Curso | +6903 this week | [quick start](trending/latest.md) |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | English \| 简体中文 \| 繁體中文 \| 한국어 \| Deutsch \| Español \| Français \| Italiano \| Dansk \| 日本語 \| Polski \| Русский \| Bosanski \| العربية \| Norsk \| Portug | +5921 this week | [quick start](trending/latest.md) |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | +5612 this week | [use cases + how to](guides/heygen-com--hyperframes.md) |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the w | +4790 this week | [quick start](trending/latest.md) |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors | +3254 this week | [quick start](trending/latest.md) |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems.  | +2987 this week | [quick start](trending/latest.md) |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | +2878 today | [quick start](trending/latest.md) |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | +16593 this week | [quick start](trending/latest.md) |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Availabl | +9241 this week | [quick start](trending/latest.md) |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Curso | +7183 this week | [quick start](trending/latest.md) |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | +5540 this week | [use cases + how to](guides/heygen-com--hyperframes.md) |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | English \| 简体中文 \| 繁體中文 \| 한국어 \| Deutsch \| Español \| Français \| Italiano \| Dansk \| 日本語 \| Polski \| Русский \| Bosanski \| العربية \| Norsk \| Portug | +5070 this week | [quick start](trending/latest.md) |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the w | +4109 this week | [quick start](trending/latest.md) |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors | +2838 this week | [quick start](trending/latest.md) |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | +2822 this week | [use cases + how to](guides/anthropics--knowledge-work-plugins.md) |
 <!-- END:TODAY -->
 
 ## How-to guides (use cases, setup, cautions)
@@ -104,16 +104,16 @@ Video-ready cards for each new addition: [NEW.md](NEW.md).
 <!-- BEGIN:TRENDING -->
 | Repo | New stars since last update | Total stars |
 |---|---|---|
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2205 | 87.6k |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +829 | 72.5k |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | +815 | 303.5k |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +766 | 65.9k |
-| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | +607 | 41.8k |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | +398 | 221.7k |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +352 | 61.2k |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | +334 | 143.1k |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | +325 | 33.1k |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | +304 | 164.1k |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2550 | 90.2k |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +936 | 73.4k |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | +892 | 38.8k |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | +834 | 304.4k |
+| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | +590 | 42.4k |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +576 | 66.5k |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | +443 | 222.1k |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +351 | 61.5k |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | +343 | 143.4k |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | +278 | 164.4k |
 <!-- END:TRENDING -->
 
 ## The evergreen list (helpful even when not trending)
@@ -124,14 +124,14 @@ DM keyword: `SKILLS`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Developer workflow skills | skill | 303.5k (+815) | MIT | 2026-10-22 | `npx skills@latest add mattpocock/skills` |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 177+ science skills and 100+ databases | skill | 54.7k (+170) | MIT | 2026-10-19 |  |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Anthropic-managed directory of Claude Code plugins | plugin | 44.6k (+219) | Apache-2.0 | 2026-10-26 |  |
-| [wshobson/agents](https://github.com/wshobson/agents) | Plugin marketplace that works across several agent tools | plugin | 41.7k (+75) | MIT | 2026-10-26 |  |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | npx skills CLI installs one skill into many agents (Claude Code, Codex, Cursor...) | cli | 36.6k (+152) | MIT | 2026-10-19 | `npx skills@latest add <owner/repo>` |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | Curated list of 1,000+ agent skills | list | 36.4k (+59) | MIT | 2026-10-25 |  |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 380+ skills for Claude Code, Codex, Gemini CLI, Cursor and more | skill | 28.7k (+58) | MIT | 2026-10-23 |  |
-| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | Claude Code and Codex configs, hooks and plugins side by side | plugin | 1.2k (+2) | Apache-2.0 | 2026-10-25 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Developer workflow skills | skill | 304.4k (+834) | MIT | 2026-10-27 | `npx skills@latest add mattpocock/skills` |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 177+ science skills and 100+ databases | skill | 54.9k (+198) | MIT | 2026-10-26 |  |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Anthropic-managed directory of Claude Code plugins | plugin | 44.8k (+183) | Apache-2.0 | 2026-10-27 |  |
+| [wshobson/agents](https://github.com/wshobson/agents) | Plugin marketplace that works across several agent tools | plugin | 41.9k (+117) | MIT | 2026-10-26 |  |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | npx skills CLI installs one skill into many agents (Claude Code, Codex, Cursor...) | cli | 36.8k (+162) | MIT | 2026-10-27 | `npx skills@latest add <owner/repo>` |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | Curated list of 1,000+ agent skills | list | 36.4k (+52) | MIT | 2026-10-25 |  |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 380+ skills for Claude Code, Codex, Gemini CLI, Cursor and more | skill | 28.8k (+63) | MIT | 2026-10-26 |  |
+| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | Claude Code and Codex configs, hooks and plugins side by side | plugin | 1.2k | Apache-2.0 | 2026-10-26 |  |
 | [charlie947/skills-for-everyone](https://github.com/charlie947/skills-for-everyone) | 7 skills for people who use Claude daily but do not code | skill | 8 | MIT | 2026-10-06 |  |
 
 ### Trending agent tools and productivity
@@ -140,18 +140,18 @@ DM keyword: `TRENDING`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | Open-source coding agent | app | 221.7k (+398) | MIT | 2026-10-26 |  |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) · [guide](guides/JuliusBrussee--caveman.md) | Makes your agent answer in fewer words, code kept exact | plugin | 115.1k (+250) | Apache-2.0 | 2026-10-26 | `claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman`; On small one-off questions it can cost more (its rules add input tokens). |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Turn any codebase into an explorable knowledge graph | skill | 88.3k (+192) | MIT | 2026-10-26 |  |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) · [guide](guides/rtk-ai--rtk.md) | Shrinks test, git and command output before your agent reads it | cli | 84.6k (+81) | Apache-2.0 | 2026-10-26 | `brew install rtk-ai/tap/rtk-oss && rtk init -g`; Use the rtk-oss edition (Apache-2.0 only); the default edition adds BUSL-licensed parts. |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) · [guide](guides/heygen-com--hyperframes.md) | Render video from HTML, built for agents | tool | 72.5k (+829) | Apache-2.0 | 2026-10-26 |  |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) · [guide](guides/cathrynlavery--diagram-design.md) | Agent skill with 44 diagram types as HTML/SVG | skill | 61.2k (+352) | MIT | 2026-10-26 |  |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Make any software controllable by agents via CLI | tool | 57.2k (+282) | Apache-2.0 | 2026-09-22 |  |
-| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | One /v1 endpoint routing to many free LLM providers | tool | 41.8k (+607) | MIT | 2026-10-25 | Personal use. Read its terms. |
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from inside Claude Code for review and delegation | plugin | 34.6k (+46) | Apache-2.0 | 2026-07-08 |  |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · [guide](guides/tirth8205--code-review-graph.md) | Code map so your agent reads only the code a change touches | cli | 32.4k (+7) | MIT | 2026-10-16 | `pip install code-review-graph && code-review-graph install --platform claude-code && code-review-graph build`; Adds files and a git pre-commit hook to your project. |
-| [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | Control Blender with an LLM through MCP | mcp | 32.4k (+89) | MIT | 2026-10-24 |  |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Agents working with CAD models | tool | 23.2k (+214) | MIT | 2026-10-26 |  |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | Open-source coding agent | app | 222.1k (+443) | MIT | 2026-10-27 |  |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) · [guide](guides/JuliusBrussee--caveman.md) | Makes your agent answer in fewer words, code kept exact | plugin | 115.4k (+271) | Apache-2.0 | 2026-10-27 | `claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman`; On small one-off questions it can cost more (its rules add input tokens). |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Turn any codebase into an explorable knowledge graph | skill | 88.5k (+166) | MIT | 2026-10-26 |  |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) · [guide](guides/rtk-ai--rtk.md) | Shrinks test, git and command output before your agent reads it | cli | 84.7k (+130) | Apache-2.0 | 2026-10-26 | `brew install rtk-ai/tap/rtk-oss && rtk init -g`; Use the rtk-oss edition (Apache-2.0 only); the default edition adds BUSL-licensed parts. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) · [guide](guides/heygen-com--hyperframes.md) | Render video from HTML, built for agents | tool | 73.4k (+936) | Apache-2.0 | 2026-10-27 |  |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) · [guide](guides/cathrynlavery--diagram-design.md) | Agent skill with 44 diagram types as HTML/SVG | skill | 61.5k (+351) | MIT | 2026-10-26 |  |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Make any software controllable by agents via CLI | tool | 57.3k (+107) | Apache-2.0 | 2026-09-22 |  |
+| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | One /v1 endpoint routing to many free LLM providers | tool | 42.4k (+590) | MIT | 2026-10-25 | Personal use. Read its terms. |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from inside Claude Code for review and delegation | plugin | 34.6k (+30) | Apache-2.0 | 2026-07-08 |  |
+| [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | Control Blender with an LLM through MCP | mcp | 32.5k (+85) | MIT | 2026-10-24 |  |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · [guide](guides/tirth8205--code-review-graph.md) | Code map so your agent reads only the code a change touches | cli | 32.4k (+34) | MIT | 2026-10-16 | `pip install code-review-graph && code-review-graph install --platform claude-code && code-review-graph build`; Adds files and a git pre-commit hook to your project. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Agents working with CAD models | tool | 23.4k (+201) | MIT | 2026-10-27 |  |
 | [zanwei/design-dna](https://github.com/zanwei/design-dna) | Turn reference UIs into design tokens and matching UI | skill | 2.0k (+2) | MIT | 2026-08-28 |  |
 
 ### AI agent teams: open-source agency setups (beyond one Claude Code session)
@@ -160,15 +160,15 @@ DM keyword: `TRENDING`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [gastownhall/gastown](https://github.com/gastownhall/gastown) · [guide](guides/gastownhall--gastown.md) | 'Mayor' coordinator plus worker agents across projects, with mailboxes, handoffs and git-backed work tracking | cli | 18.5k (+21) | MIT | 2026-10-25 | `brew install gastown`; Claude Code CLI is the default runtime (Codex, Copilot, Gemini, Cursor supported); needs tmux |
-| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) · [guide](guides/OrchestratorInc--agent-orchestrator.md) | Desktop workspace to plan, run and supervise many coding agents from task to merged PR on a live Kanban | app | 13.7k (+63) | Apache-2.0 | 2026-10-26 | Desktop download from Releases; agents (Claude Code, Codex and others) still need their own accounts |
-| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) · [guide](guides/omnigent-ai--omnigent.md) | Meta-harness: run Claude Code, Codex, Cursor, OpenCode, Pi and your own agents as one team, with any model | app | 11.1k (+25) | Apache-2.0 | 2026-10-26 | `curl -fsSL https://raw.githubusercontent.com/omnigent-ai/omnigent/main/scripts/install_oss.sh \| sh`; Installer adds Databricks CLI by default (pass --no-databricks to skip). New (Jun 2026) and growing fast |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) · [guide](guides/mvschwarz--openrig.md) | Define a persistent agent team (roles, shared context, owned work) in YAML and boot it with one command | cli | 8.2k (+27) | Apache-2.0 | 2026-10-26 | Needs Node 22/24, tmux, macOS/Linux (WSL2 on Windows) and a signed-in Claude Code or Codex |
-| [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) | Python framework to build your own 'agency' of role-based agents that talk to each other | tool | 4.6k | MIT | 2026-10-21 | For developers; needs an LLM API key |
+| [gastownhall/gastown](https://github.com/gastownhall/gastown) · [guide](guides/gastownhall--gastown.md) | 'Mayor' coordinator plus worker agents across projects, with mailboxes, handoffs and git-backed work tracking | cli | 18.6k (+24) | MIT | 2026-10-25 | `brew install gastown`; Claude Code CLI is the default runtime (Codex, Copilot, Gemini, Cursor supported); needs tmux |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) · [guide](guides/OrchestratorInc--agent-orchestrator.md) | Desktop workspace to plan, run and supervise many coding agents from task to merged PR on a live Kanban | app | 13.7k (+83) | Apache-2.0 | 2026-10-27 | Desktop download from Releases; agents (Claude Code, Codex and others) still need their own accounts |
+| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) · [guide](guides/omnigent-ai--omnigent.md) | Meta-harness: run Claude Code, Codex, Cursor, OpenCode, Pi and your own agents as one team, with any model | app | 11.1k (+16) | Apache-2.0 | 2026-10-27 | `curl -fsSL https://raw.githubusercontent.com/omnigent-ai/omnigent/main/scripts/install_oss.sh \| sh`; Installer adds Databricks CLI by default (pass --no-databricks to skip). New (Jun 2026) and growing fast |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) · [guide](guides/mvschwarz--openrig.md) | Define a persistent agent team (roles, shared context, owned work) in YAML and boot it with one command | cli | 8.2k (+40) | Apache-2.0 | 2026-10-27 | Needs Node 22/24, tmux, macOS/Linux (WSL2 on Windows) and a signed-in Claude Code or Codex |
+| [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) | Python framework to build your own 'agency' of role-based agents that talk to each other | tool | 4.6k (+2) | MIT | 2026-10-21 | For developers; needs an LLM API key |
 | [VRSEN/OpenSwarm](https://github.com/VRSEN/OpenSwarm) | Multi-agent team for non-coding work: decks, reports, docs, images and charts from one prompt | app | 2.9k | MIT | 2026-07-26 | Needs an OpenAI or Anthropic API key (paid usage) |
-| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) | A supervisor agent delegates to specialist coding CLIs running in isolated terminal sessions | cli | 1.5k (+2) | Apache-2.0 | 2026-10-26 | `uv tool install git+https://github.com/awslabs/cli-agent-orchestrator.git@main --upgrade`; Default provider is Kiro CLI; Claude Code, Codex and others via provider guides |
-| [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) · [guide](guides/desplega-ai--agent-swarm.md) | Self-hosted 'company OS': a lead agent takes work from Slack, GitHub or email and delegates to workers in Docker | tool | 945 (+3) | MIT | 2026-10-26 | `npx skills add desplega-ai/agent-swarm`; Self-hosting needs Docker Compose; workers use your chosen harness (Claude Code, Codex, pi, opencode and more) |
-| [lthoangg/OpenAgentd](https://github.com/lthoangg/OpenAgentd) | Local-first desktop coding agent that shows every step; 19+ model providers including local models | app | 212 | Apache-2.0 | 2026-10-26 | `curl -fsSL https://openagentd.dev/install.sh \| sh`; Very new (Apr 2026) and small; test before relying on it |
+| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) | A supervisor agent delegates to specialist coding CLIs running in isolated terminal sessions | cli | 1.5k (+3) | Apache-2.0 | 2026-10-27 | `uv tool install git+https://github.com/awslabs/cli-agent-orchestrator.git@main --upgrade`; Default provider is Kiro CLI; Claude Code, Codex and others via provider guides |
+| [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) · [guide](guides/desplega-ai--agent-swarm.md) | Self-hosted 'company OS': a lead agent takes work from Slack, GitHub or email and delegates to workers in Docker | tool | 949 (+4) | MIT | 2026-10-27 | `npx skills add desplega-ai/agent-swarm`; Self-hosting needs Docker Compose; workers use your chosen harness (Claude Code, Codex, pi, opencode and more) |
+| [lthoangg/OpenAgentd](https://github.com/lthoangg/OpenAgentd) | Local-first desktop coding agent that shows every step; 19+ model providers including local models | app | 213 (+1) | Apache-2.0 | 2026-10-27 | `curl -fsSL https://openagentd.dev/install.sh \| sh`; Very new (Apr 2026) and small; test before relying on it |
 
 ### Creator: video, reels and captions
 
@@ -176,9 +176,9 @@ DM keyword: `CREATOR`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | 42 FFmpeg tools + MCP for cutting, captions, 9:16 reframe. No cloud | skill | 2.9k (+283) | MIT | 2026-10-26 |  |
-| [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) | Long video to shorts with animated captions | skill | 239 | MIT | 2026-07-11 |  |
-| [6missedcalls/video-editing-skill](https://github.com/6missedcalls/video-editing-skill) | Trim, jump cuts, Hormozi-style captions via FFmpeg + Whisper | skill | 48 (+1) | MIT | 2026-02-27 |  |
+| [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | 42 FFmpeg tools + MCP for cutting, captions, 9:16 reframe. No cloud | skill | 3.1k (+136) | MIT | 2026-10-26 |  |
+| [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) | Long video to shorts with animated captions | skill | 240 (+1) | MIT | 2026-07-11 |  |
+| [6missedcalls/video-editing-skill](https://github.com/6missedcalls/video-editing-skill) | Trim, jump cuts, Hormozi-style captions via FFmpeg + Whisper | skill | 48 | MIT | 2026-02-27 |  |
 | [waseemnasir2k26/reelforge](https://github.com/waseemnasir2k26/reelforge) | Raw take to captioned vertical reel, local and free | cli | 8 | MIT | 2026-10-24 |  |
 | [addsumtech/topic-to-video](https://github.com/addsumtech/topic-to-video) | Topic to narrated, captioned video; free voices by default | skill | 1 | MIT | 2026-10-23 |  |
 | [philippprimisser-max/whisper-word-captions](https://github.com/philippprimisser-max/whisper-word-captions) | Word-by-word highlighted captions with faster-whisper | cli | 0 | MIT | 2026-10-09 |  |
@@ -190,10 +190,10 @@ DM keyword: `CREATOR`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based local image generation | app | 143.1k (+334) | GPL-3.0 | 2026-10-26 |  |
-| [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills) | Skills for captions, hooks, carousel plans and hashtags | skill | 618 (+19) | MIT | 2026-10-21 |  |
-| [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) | Chat with Claude to design Instagram carousels, export PNGs | skill | 495 (+1) | MIT | 2026-10-25 | `Type /start in Claude Code` |
-| [vyralcontent/content-skills](https://github.com/vyralcontent/content-skills) | Hooks, scripts and carousels for Reels, TikTok, Shorts | skill | 171 (+1) | MIT | 2026-06-22 |  |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based local image generation | app | 143.4k (+343) | GPL-3.0 | 2026-10-27 |  |
+| [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills) | Skills for captions, hooks, carousel plans and hashtags | skill | 632 (+14) | MIT | 2026-10-21 |  |
+| [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) | Chat with Claude to design Instagram carousels, export PNGs | skill | 496 (+1) | MIT | 2026-10-25 | `Type /start in Claude Code` |
+| [vyralcontent/content-skills](https://github.com/vyralcontent/content-skills) | Hooks, scripts and carousels for Reels, TikTok, Shorts | skill | 171 | MIT | 2026-06-22 |  |
 
 ### Creator: voice and audio
 
@@ -201,8 +201,8 @@ DM keyword: `CREATOR`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) · [guide](guides/debpalash--VoiceStudio.md) | Local voice cloning, dubbing and transcription | app | 87.6k (+2205) | AGPL-3.0 | 2026-10-26 | Clone only voices you have consent for. |
-| [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) | Lightweight CPU text-to-speech | tool | 16.5k (+28) | Apache-2.0 | 2026-10-22 |  |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) · [guide](guides/debpalash--VoiceStudio.md) | Local voice cloning, dubbing and transcription | app | 90.2k (+2550) | AGPL-3.0 | 2026-10-27 | Clone only voices you have consent for. |
+| [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) | Lightweight CPU text-to-speech | tool | 16.5k (+37) | Apache-2.0 | 2026-10-27 |  |
 
 ### Creator: scheduling and comment-to-DM
 
@@ -210,11 +210,11 @@ DM keyword: `CREATOR`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | Self-hosted social scheduler incl. Instagram, with API and agent CLI | app | 37.9k (+127) | AGPL-3.0 | 2026-10-24 | Use self-hosted only; the cloud version is paid. |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | Self-hosted social scheduler incl. Instagram, with API and agent CLI | app | 38.8k (+892) | AGPL-3.0 | 2026-10-24 | Use self-hosted only; the cloud version is paid. |
 | [harshithgangone/open-autodm](https://github.com/harshithgangone/open-autodm) | Self-hosted comment, DM and story-reply automation | app | 17 | MIT | 2026-10-05 | Needs your own Meta developer app. |
 | [AmitDas4321/EngagePilot](https://github.com/AmitDas4321/EngagePilot) | Self-hosted Instagram comment-to-DM via Meta Graph API | app | 5 | MIT | 2026-10-25 | Needs your own Meta developer app. |
-| [charanjit-singh/opendm](https://github.com/charanjit-singh/opendm) | ManyChat-style DM automation on Cloudflare Workers | app | 1 (+1) | AGPL-3.0 | 2026-10-15 | Needs your own Meta developer app. |
-| [A-S-W-I-N-S-P-A-R-K-Y/AutoDMX](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/AutoDMX) | Self-hosted comment-to-DM with encrypted tokens | app | 0 | MIT | 2026-09-04 | Needs your own Meta developer app. |
+| [A-S-W-I-N-S-P-A-R-K-Y/AutoDMX](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/AutoDMX) | Self-hosted comment-to-DM with encrypted tokens | app | 1 (+1) | MIT | 2026-09-04 | Needs your own Meta developer app. |
+| [charanjit-singh/opendm](https://github.com/charanjit-singh/opendm) | ManyChat-style DM automation on Cloudflare Workers | app | 1 | AGPL-3.0 | 2026-10-15 | Needs your own Meta developer app. |
 
 ### India toolkit (GST, PAN, UPI, Indian languages)
 
@@ -223,8 +223,8 @@ DM keyword: `INDIA`
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
 | [AI4Bharat/Indic-TTS](https://github.com/AI4Bharat/Indic-TTS) | Text-to-speech for 13 Indian languages | tool | 415 | MIT | 2024-11-08 ⚠️ stale |  |
-| [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) | GST returns, e-invoice and e-waybill for ERPNext | app | 276 (+1) | GPL-3.0 | 2026-10-21 | Some automation features need a paid India Compliance account. Use free features only. |
-| [rehan1020/MCP-India-Stack](https://github.com/rehan1020/MCP-India-Stack) | 76 offline tools: GSTIN, PAN, UPI, IFSC, HSN/SAC, tax calculators | mcp | 66 | MIT | 2026-10-25 | `pip install mcp-india-stack` |
+| [resilient-tech/india-compliance](https://github.com/resilient-tech/india-compliance) | GST returns, e-invoice and e-waybill for ERPNext | app | 276 | GPL-3.0 | 2026-10-27 | Some automation features need a paid India Compliance account. Use free features only. |
+| [rehan1020/MCP-India-Stack](https://github.com/rehan1020/MCP-India-Stack) | 76 offline tools: GSTIN, PAN, UPI, IFSC, HSN/SAC, tax calculators | mcp | 67 (+1) | MIT | 2026-10-25 | `pip install mcp-india-stack` |
 | [vexyl-ai/vexyl-stt](https://github.com/vexyl-ai/vexyl-stt) | Self-hosted speech-to-text for 14 Indian languages | app | 11 | Apache-2.0 | 2026-07-19 |  |
 
 ### Real estate
@@ -233,7 +233,7 @@ DM keyword: `PROPERTY`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [miron-tech/wholesaler-claude-skills](https://github.com/miron-tech/wholesaler-claude-skills) | Comps, ARV, rehab estimates, seller scripts (US wholesaling) | skill | 51 (+1) | MIT | 2026-10-08 |  |
+| [miron-tech/wholesaler-claude-skills](https://github.com/miron-tech/wholesaler-claude-skills) | Comps, ARV, rehab estimates, seller scripts (US wholesaling) | skill | 52 (+1) | MIT | 2026-10-08 |  |
 | [sasha-deneux/claude-skills-cre](https://github.com/sasha-deneux/claude-skills-cre) | Free copy-paste skills for the deal lifecycle (commercial focus) | skill | 4 | MIT | 2026-07-15 |  |
 
 ### CA, accounting and finance
@@ -242,7 +242,7 @@ DM keyword: `CA`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [openaccountant/skills](https://github.com/openaccountant/skills) | 44 financial skills: P&L, budgeting, tax prep | skill | 98 (+1) | MIT | 2026-04-09 |  |
+| [openaccountant/skills](https://github.com/openaccountant/skills) | 44 financial skills: P&L, budgeting, tax prep | skill | 103 (+5) | MIT | 2026-04-09 |  |
 
 ### Legal
 
@@ -258,9 +258,9 @@ DM keyword: `SELLER`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 157 skills for Amazon, Shopify, Etsy, TikTok Shop sellers | skill | 1.3k (+7) | MIT | 2026-08-26 |  |
-| [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) | MCP server for the Shopify API (start read-only) | mcp | 238 (+1) | MIT | 2026-04-05 |  |
-| [motiful/product-shots](https://github.com/motiful/product-shots) | One product photo to a full set of e-commerce visuals | skill | 117 (+2) | MIT | 2026-06-08 | Alpha status. |
+| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 157 skills for Amazon, Shopify, Etsy, TikTok Shop sellers | skill | 1.3k (+10) | MIT | 2026-08-26 |  |
+| [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) | MCP server for the Shopify API (start read-only) | mcp | 238 | MIT | 2026-04-05 |  |
+| [motiful/product-shots](https://github.com/motiful/product-shots) | One product photo to a full set of e-commerce visuals | skill | 118 (+1) | MIT | 2026-06-08 | Alpha status. |
 | [kgelster/awesome-ecom-skills](https://github.com/kgelster/awesome-ecom-skills) | Shopify skills covering catalog, SEO and import traps | skill | 50 | MIT | 2026-08-22 |  |
 
 ### Freelancers, coaches, agencies and marketing
@@ -269,11 +269,11 @@ DM keyword: `FREELANCE`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) · [guide](guides/msitarzewski--agency-agents.md) | A whole AI agency of specialist agent personas; installs into Claude Code, Codex, Cursor and more | skill | 164.1k (+304) | MIT | 2026-10-25 |  |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) · [guide](guides/anthropics--knowledge-work-plugins.md) | 11 Anthropic plugins for sales, support, legal, finance, marketing and more (Cowork and Claude Code) | plugin | 33.1k (+325) | Apache-2.0 | 2026-10-26 | `claude plugin marketplace add anthropics/knowledge-work-plugins` |
-| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 30 blog skills for SEO and AI-citation-ready posts | skill | 2.5k (+8) | MIT | 2026-10-14 |  |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) · [guide](guides/msitarzewski--agency-agents.md) | A whole AI agency of specialist agent personas; installs into Claude Code, Codex, Cursor and more | skill | 164.4k (+278) | MIT | 2026-10-25 |  |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) · [guide](guides/anthropics--knowledge-work-plugins.md) | 11 Anthropic plugins for sales, support, legal, finance, marketing and more (Cowork and Claude Code) | plugin | 33.3k (+237) | Apache-2.0 | 2026-10-27 | `claude plugin marketplace add anthropics/knowledge-work-plugins` |
+| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 30 blog skills for SEO and AI-citation-ready posts | skill | 2.5k (+15) | MIT | 2026-10-14 |  |
 | [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 77 marketing skills: SEO, content, email, ads, analytics | skill | 721 | MIT | 2026-10-21 |  |
-| [thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing) | Marketing skill packs for Klaviyo, Shopify, GA4 and paid media | skill | 183 (+3) | MIT | 2026-05-14 | Some skills use third-party platforms you may need an account for. |
+| [thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing) | Marketing skill packs for Klaviyo, Shopify, GA4 and paid media | skill | 186 (+3) | MIT | 2026-05-14 | Some skills use third-party platforms you may need an account for. |
 
 ### Job search and careers
 
@@ -281,7 +281,7 @@ DM keyword: `JOBS`
 
 | Repo | What it does | Type | Stars | Licence | Last push | Notes |
 |---|---|---|---|---|---|---|
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) · [guide](guides/MadsLorentzen--ai-job-search.md) | Forkable job-search framework on Claude Code | skill | 65.9k (+766) | MIT | 2026-10-21 |  |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) · [guide](guides/MadsLorentzen--ai-job-search.md) | Forkable job-search framework on Claude Code | skill | 66.5k (+576) | MIT | 2026-10-27 |  |
 
 ### Excluded automatically (does not meet the free and open-source rule)
 

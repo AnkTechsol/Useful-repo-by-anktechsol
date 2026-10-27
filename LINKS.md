@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-26. Open-source repos only.
+Names and links only. Updated 2026-10-27. Open-source repos only.
 
 ## This hub
 
@@ -10,25 +10,29 @@ Names and links only. Updated 2026-10-26. Open-source repos only.
 
 ## Trending today
 
+- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - stablyai/orca: https://github.com/stablyai/orca
 - Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
-- anomalyco/opencode: https://github.com/anomalyco/opencode
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
+- anomalyco/opencode: https://github.com/anomalyco/opencode
 - Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
 - akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
-- ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
-- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
+- ruvnet/ruflo: https://github.com/ruvnet/ruflo
+- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
 - debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
-- vllm-project/vllm: https://github.com/vllm-project/vllm
 - Nutlope/hallmark: https://github.com/Nutlope/hallmark
 - pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- android/skills: https://github.com/android/skills
-- makecindy/cindy: https://github.com/makecindy/cindy
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
-- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
+- makecindy/cindy: https://github.com/makecindy/cindy
 - JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
+- affaan-m/ECC: https://github.com/affaan-m/ECC
+- android/skills: https://github.com/android/skills
+- Panniantong/Agent-Reach: https://github.com/Panniantong/Agent-Reach
+- wshobson/agents: https://github.com/wshobson/agents
+- alchaincyf/huashu-design: https://github.com/alchaincyf/huashu-design
+- NVIDIA/SkillSpector: https://github.com/NVIDIA/SkillSpector
+- gitroomhq/postiz-app: https://github.com/gitroomhq/postiz-app
 
 ## Guides (use cases + how to)
 
@@ -50,10 +54,10 @@ Names and links only. Updated 2026-10-26. Open-source repos only.
 
 ## Skill and plugin libraries (Claude Code, Codex and more)
 
+- anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
 - mattpocock/skills: https://github.com/mattpocock/skills
-- wshobson/agents: https://github.com/wshobson/agents
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
 - VoltAgent/awesome-agent-skills: https://github.com/VoltAgent/awesome-agent-skills
@@ -107,7 +111,6 @@ Names and links only. Updated 2026-10-26. Open-source repos only.
 
 ## Creator: scheduling and comment-to-DM
 
-- gitroomhq/postiz-app: https://github.com/gitroomhq/postiz-app
 - AmitDas4321/EngagePilot: https://github.com/AmitDas4321/EngagePilot
 - harshithgangone/open-autodm: https://github.com/harshithgangone/open-autodm
 - A-S-W-I-N-S-P-A-R-K-Y/AutoDMX: https://github.com/A-S-W-I-N-S-P-A-R-K-Y/AutoDMX
