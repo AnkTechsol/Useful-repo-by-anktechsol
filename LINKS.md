@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-27. Open-source repos only.
+Names and links only. Updated 2026-10-28. Open-source repos only.
 
 ## This hub
 
@@ -13,26 +13,22 @@ Names and links only. Updated 2026-10-27. Open-source repos only.
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - stablyai/orca: https://github.com/stablyai/orca
 - Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
-- heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
+- TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
 - anomalyco/opencode: https://github.com/anomalyco/opencode
-- Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
-- akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
+- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
+- Nutlope/hallmark: https://github.com/Nutlope/hallmark
 - anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
-- Nutlope/hallmark: https://github.com/Nutlope/hallmark
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
+- akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
+- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
 - makecindy/cindy: https://github.com/makecindy/cindy
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
+- elayadesign/ai-design-skills: https://github.com/elayadesign/ai-design-skills
 - JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
 - affaan-m/ECC: https://github.com/affaan-m/ECC
-- android/skills: https://github.com/android/skills
-- Panniantong/Agent-Reach: https://github.com/Panniantong/Agent-Reach
-- wshobson/agents: https://github.com/wshobson/agents
-- alchaincyf/huashu-design: https://github.com/alchaincyf/huashu-design
-- NVIDIA/SkillSpector: https://github.com/NVIDIA/SkillSpector
 - gitroomhq/postiz-app: https://github.com/gitroomhq/postiz-app
+- android/skills: https://github.com/android/skills
+- obra/superpowers: https://github.com/obra/superpowers
 
 ## Guides (use cases + how to)
 
@@ -58,6 +54,7 @@ Names and links only. Updated 2026-10-27. Open-source repos only.
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
 - mattpocock/skills: https://github.com/mattpocock/skills
+- wshobson/agents: https://github.com/wshobson/agents
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
 - VoltAgent/awesome-agent-skills: https://github.com/VoltAgent/awesome-agent-skills
@@ -70,6 +67,7 @@ Names and links only. Updated 2026-10-27. Open-source repos only.
 - tirth8205/code-review-graph: https://github.com/tirth8205/code-review-graph
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
+- heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ahujasid/mcp-for-blender: https://github.com/ahujasid/mcp-for-blender
@@ -104,10 +102,12 @@ Names and links only. Updated 2026-10-27. Open-source repos only.
 - Hainrixz/open-carrusel: https://github.com/Hainrixz/open-carrusel
 - sergebulaev/instagram-skills: https://github.com/sergebulaev/instagram-skills
 - vyralcontent/content-skills: https://github.com/vyralcontent/content-skills
+- Comfy-Org/ComfyUI: https://github.com/Comfy-Org/ComfyUI
 
 ## Creator: voice and audio
 
 - KittenML/KittenTTS: https://github.com/KittenML/KittenTTS
+- debpalash/VoiceStudio: https://github.com/debpalash/VoiceStudio
 
 ## Creator: scheduling and comment-to-DM
 
