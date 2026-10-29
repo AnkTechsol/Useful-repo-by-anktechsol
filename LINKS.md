@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-28. Open-source repos only.
+Names and links only. Updated 2026-10-29. Open-source repos only.
 
 ## This hub
 
@@ -11,24 +11,24 @@ Names and links only. Updated 2026-10-28. Open-source repos only.
 ## Trending today
 
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- stablyai/orca: https://github.com/stablyai/orca
 - Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
-- anomalyco/opencode: https://github.com/anomalyco/opencode
+- Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- Nutlope/hallmark: https://github.com/Nutlope/hallmark
+- anomalyco/opencode: https://github.com/anomalyco/opencode
 - anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
-- ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- akitaonrails/ai-memory: https://github.com/akitaonrails/ai-memory
 - HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
-- makecindy/cindy: https://github.com/makecindy/cindy
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - elayadesign/ai-design-skills: https://github.com/elayadesign/ai-design-skills
-- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
-- affaan-m/ECC: https://github.com/affaan-m/ECC
-- gitroomhq/postiz-app: https://github.com/gitroomhq/postiz-app
-- android/skills: https://github.com/android/skills
+- Nutlope/hallmark: https://github.com/Nutlope/hallmark
+- ruvnet/ruflo: https://github.com/ruvnet/ruflo
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - obra/superpowers: https://github.com/obra/superpowers
+- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
+- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- makecindy/cindy: https://github.com/makecindy/cindy
+- ruvnet/RuView: https://github.com/ruvnet/RuView
+- macro-inc/macro: https://github.com/macro-inc/macro
+- expo/skills: https://github.com/expo/skills
 
 ## Guides (use cases + how to)
 
@@ -111,6 +111,7 @@ Names and links only. Updated 2026-10-28. Open-source repos only.
 
 ## Creator: scheduling and comment-to-DM
 
+- gitroomhq/postiz-app: https://github.com/gitroomhq/postiz-app
 - AmitDas4321/EngagePilot: https://github.com/AmitDas4321/EngagePilot
 - harshithgangone/open-autodm: https://github.com/harshithgangone/open-autodm
 - A-S-W-I-N-S-P-A-R-K-Y/AutoDMX: https://github.com/A-S-W-I-N-S-P-A-R-K-Y/AutoDMX
