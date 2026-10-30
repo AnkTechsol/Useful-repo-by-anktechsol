@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-29. Open-source repos only.
+Names and links only. Updated 2026-10-30. Open-source repos only.
 
 ## This hub
 
@@ -11,24 +11,21 @@ Names and links only. Updated 2026-10-29. Open-source repos only.
 ## Trending today
 
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- Graphify-Labs/graphify: https://github.com/Graphify-Labs/graphify
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
 - Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- anomalyco/opencode: https://github.com/anomalyco/opencode
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
-- elayadesign/ai-design-skills: https://github.com/elayadesign/ai-design-skills
-- Nutlope/hallmark: https://github.com/Nutlope/hallmark
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- obra/superpowers: https://github.com/obra/superpowers
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
+- elayadesign/ai-design-skills: https://github.com/elayadesign/ai-design-skills
 - JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
+- obra/superpowers: https://github.com/obra/superpowers
 - jakubkrehel/skills: https://github.com/jakubkrehel/skills
-- makecindy/cindy: https://github.com/makecindy/cindy
-- ruvnet/RuView: https://github.com/ruvnet/RuView
-- macro-inc/macro: https://github.com/macro-inc/macro
-- expo/skills: https://github.com/expo/skills
+- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
+- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
+- CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
 
 ## Guides (use cases + how to)
 
@@ -68,6 +65,7 @@ Names and links only. Updated 2026-10-29. Open-source repos only.
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
+- anomalyco/opencode: https://github.com/anomalyco/opencode
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ahujasid/mcp-for-blender: https://github.com/ahujasid/mcp-for-blender
