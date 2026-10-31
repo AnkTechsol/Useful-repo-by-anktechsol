@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-30. Open-source repos only.
+Names and links only. Updated 2026-10-31. Open-source repos only.
 
 ## This hub
 
@@ -11,21 +11,24 @@ Names and links only. Updated 2026-10-30. Open-source repos only.
 ## Trending today
 
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
+- affaan-m/ECC: https://github.com/affaan-m/ECC
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
 - Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
 - pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
+- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
-- elayadesign/ai-design-skills: https://github.com/elayadesign/ai-design-skills
-- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
 - obra/superpowers: https://github.com/obra/superpowers
-- jakubkrehel/skills: https://github.com/jakubkrehel/skills
-- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
 - thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
+- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
+- mattpocock/skills: https://github.com/mattpocock/skills
+- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
 - CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
+- lightpanda-io/browser: https://github.com/lightpanda-io/browser
+- macro-inc/macro: https://github.com/macro-inc/macro
+- expo/skills: https://github.com/expo/skills
 
 ## Guides (use cases + how to)
 
@@ -50,7 +53,6 @@ Names and links only. Updated 2026-10-30. Open-source repos only.
 - anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
-- mattpocock/skills: https://github.com/mattpocock/skills
 - wshobson/agents: https://github.com/wshobson/agents
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
