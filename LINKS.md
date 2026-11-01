@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-10-31. Open-source repos only.
+Names and links only. Updated 2026-11-01. Open-source repos only.
 
 ## This hub
 
@@ -10,25 +10,24 @@ Names and links only. Updated 2026-10-31. Open-source repos only.
 
 ## Trending today
 
+- Nutlope/hallmark: https://github.com/Nutlope/hallmark
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - affaan-m/ECC: https://github.com/affaan-m/ECC
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
 - Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
-- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
-- ruvnet/ruflo: https://github.com/ruvnet/ruflo
-- obra/superpowers: https://github.com/obra/superpowers
+- AstrBotDevs/AstrBot: https://github.com/AstrBotDevs/AstrBot
 - thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
-- mattpocock/skills: https://github.com/mattpocock/skills
-- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
-- CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
+- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- Orkas-AI/Orkas: https://github.com/Orkas-AI/Orkas
+- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
 - lightpanda-io/browser: https://github.com/lightpanda-io/browser
-- macro-inc/macro: https://github.com/macro-inc/macro
-- expo/skills: https://github.com/expo/skills
+- mattpocock/skills: https://github.com/mattpocock/skills
+- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
+- obra/superpowers: https://github.com/obra/superpowers
+- THU-MAIC/OpenMAIC: https://github.com/THU-MAIC/OpenMAIC
 
 ## Guides (use cases + how to)
 
@@ -147,6 +146,7 @@ Names and links only. Updated 2026-10-31. Open-source repos only.
 ## Freelancers, coaches, agencies and marketing
 
 - msitarzewski/agency-agents: https://github.com/msitarzewski/agency-agents
+- anthropics/knowledge-work-plugins: https://github.com/anthropics/knowledge-work-plugins
 - OpenClaudia/openclaudia-skills: https://github.com/OpenClaudia/openclaudia-skills
 - thatrebeccarae/claude-marketing: https://github.com/thatrebeccarae/claude-marketing
 - AgriciDaniel/claude-blog: https://github.com/AgriciDaniel/claude-blog
