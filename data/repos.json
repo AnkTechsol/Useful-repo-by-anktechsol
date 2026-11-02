@@ -31,6 +31,7 @@
     {"repo": "zhuyansen/awesome-claude-video-skills", "category": "skill-libraries", "why": "~180 video-skill repos with security grades", "type": "list"},
     {"repo": "charlie947/skills-for-everyone", "category": "skill-libraries", "why": "7 skills for people who use Claude daily but do not code", "type": "skill"},
 
+    {"repo": "seifip/kilobat-cli", "category": "dev-productivity", "why": "Lets agents diagnose Mac network connections with a local MCP server", "type": "mcp", "note": "New project with limited adoption. macOS 14+; Homebrew source builds need Xcode 16+. Client setup may require editing configuration; some Wi-Fi data needs permissions or the separate proprietary Kilobat app."},
     {"repo": "mksglu/context-mode", "category": "dev-productivity", "why": "Cuts agent context use by sandboxing tool output", "type": "plugin", "install": "/plugin marketplace add mksglu/context-mode"},
     {"repo": "ccusage/ccusage", "category": "dev-productivity", "why": "See what your Claude Code (and other agents) usage would cost, from local logs", "type": "cli", "install": "npx ccusage@latest claude daily"},
     {"repo": "rtk-ai/rtk", "category": "dev-productivity", "why": "Shrinks test, git and command output before your agent reads it", "type": "cli", "install": "brew install rtk-ai/tap/rtk-oss && rtk init -g", "note": "Use the rtk-oss edition (Apache-2.0 only); the default edition adds BUSL-licensed parts."},
