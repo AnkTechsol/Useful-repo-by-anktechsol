@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-01. Open-source repos only.
+Names and links only. Updated 2026-11-02. Open-source repos only.
 
 ## This hub
 
@@ -10,24 +10,23 @@ Names and links only. Updated 2026-11-01. Open-source repos only.
 
 ## Trending today
 
+- pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - Nutlope/hallmark: https://github.com/Nutlope/hallmark
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - affaan-m/ECC: https://github.com/affaan-m/ECC
+- obra/superpowers: https://github.com/obra/superpowers
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
 - Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- AstrBotDevs/AstrBot: https://github.com/AstrBotDevs/AstrBot
-- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
 - jakubkrehel/skills: https://github.com/jakubkrehel/skills
-- Orkas-AI/Orkas: https://github.com/Orkas-AI/Orkas
-- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
-- lightpanda-io/browser: https://github.com/lightpanda-io/browser
-- mattpocock/skills: https://github.com/mattpocock/skills
+- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
+- patchy631/ai-engineering-hub: https://github.com/patchy631/ai-engineering-hub
 - Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
-- obra/superpowers: https://github.com/obra/superpowers
-- THU-MAIC/OpenMAIC: https://github.com/THU-MAIC/OpenMAIC
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
+- lightpanda-io/browser: https://github.com/lightpanda-io/browser
+- beenuar/AiSOC: https://github.com/beenuar/AiSOC
+- CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
+- kornia/kornia: https://github.com/kornia/kornia
 
 ## Guides (use cases + how to)
 
@@ -52,6 +51,7 @@ Names and links only. Updated 2026-11-01. Open-source repos only.
 - anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
+- mattpocock/skills: https://github.com/mattpocock/skills
 - wshobson/agents: https://github.com/wshobson/agents
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
