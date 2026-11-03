@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-02. Open-source repos only.
+Names and links only. Updated 2026-11-03. Open-source repos only.
 
 ## This hub
 
@@ -16,17 +16,16 @@ Names and links only. Updated 2026-11-02. Open-source repos only.
 - affaan-m/ECC: https://github.com/affaan-m/ECC
 - obra/superpowers: https://github.com/obra/superpowers
 - TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
-- Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
 - thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- patchy631/ai-engineering-hub: https://github.com/patchy631/ai-engineering-hub
+- jakubkrehel/skills: https://github.com/jakubkrehel/skills
 - Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
-- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
-- lightpanda-io/browser: https://github.com/lightpanda-io/browser
-- beenuar/AiSOC: https://github.com/beenuar/AiSOC
-- CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
-- kornia/kornia: https://github.com/kornia/kornia
+- mattpocock/skills: https://github.com/mattpocock/skills
+- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
+- p-e-w/heretic: https://github.com/p-e-w/heretic
+- Usagi-org/ai-goofish-monitor: https://github.com/Usagi-org/ai-goofish-monitor
+- spotify/portal-ai-plugins: https://github.com/spotify/portal-ai-plugins
 
 ## Guides (use cases + how to)
 
@@ -51,7 +50,6 @@ Names and links only. Updated 2026-11-02. Open-source repos only.
 - anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
-- mattpocock/skills: https://github.com/mattpocock/skills
 - wshobson/agents: https://github.com/wshobson/agents
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
