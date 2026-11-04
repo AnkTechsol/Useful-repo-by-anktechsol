@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-03. Open-source repos only.
+Names and links only. Updated 2026-11-04. Open-source repos only.
 
 ## This hub
 
@@ -15,14 +15,14 @@ Names and links only. Updated 2026-11-03. Open-source repos only.
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - affaan-m/ECC: https://github.com/affaan-m/ECC
 - obra/superpowers: https://github.com/obra/superpowers
-- TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
-- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
 - vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
-- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
+- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
+- TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
 - jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
 - mattpocock/skills: https://github.com/mattpocock/skills
-- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
+- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
 - p-e-w/heretic: https://github.com/p-e-w/heretic
 - Usagi-org/ai-goofish-monitor: https://github.com/Usagi-org/ai-goofish-monitor
 - spotify/portal-ai-plugins: https://github.com/spotify/portal-ai-plugins
