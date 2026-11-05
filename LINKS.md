@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-04. Open-source repos only.
+Names and links only. Updated 2026-11-05. Open-source repos only.
 
 ## This hub
 
@@ -12,20 +12,23 @@ Names and links only. Updated 2026-11-04. Open-source repos only.
 
 - pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - Nutlope/hallmark: https://github.com/Nutlope/hallmark
-- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- affaan-m/ECC: https://github.com/affaan-m/ECC
 - obra/superpowers: https://github.com/obra/superpowers
-- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
+- calesthio/OpenMontage: https://github.com/calesthio/OpenMontage
 - AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- TauricResearch/TradingAgents: https://github.com/TauricResearch/TradingAgents
-- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
+- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
+- NVIDIA/auto-ontology: https://github.com/NVIDIA/auto-ontology
 - D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
-- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
+- jakubkrehel/skills: https://github.com/jakubkrehel/skills
 - mattpocock/skills: https://github.com/mattpocock/skills
 - thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- p-e-w/heretic: https://github.com/p-e-w/heretic
-- Usagi-org/ai-goofish-monitor: https://github.com/Usagi-org/ai-goofish-monitor
-- spotify/portal-ai-plugins: https://github.com/spotify/portal-ai-plugins
+- github/spec-kit: https://github.com/github/spec-kit
+- harry0703/MoneyPrinterTurbo: https://github.com/harry0703/MoneyPrinterTurbo
+- FareedKhan-dev/kimi-k3-in-c: https://github.com/FareedKhan-dev/kimi-k3-in-c
+- garrytan/gstack: https://github.com/garrytan/gstack
+- The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
+- scenario-labs/skills: https://github.com/scenario-labs/skills
+- Thysrael/Horizon: https://github.com/Thysrael/Horizon
 
 ## Guides (use cases + how to)
 
