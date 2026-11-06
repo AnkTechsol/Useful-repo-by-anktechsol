@@ -6,7 +6,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-24
 - **One line:** Makes your agent answer in fewer words, code kept exact
 - **Category / DM keyword:** Trending agent tools and productivity / `TRENDING`
-- **Stars:** 117.6k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-11-05
+- **Stars:** 117.9k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-11-06
 - **Type:** plugin
 - **Install:** claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman
 - **Caution:** On small one-off questions it can cost more (its rules add input tokens).
@@ -16,7 +16,7 @@ Repos added in the last 14 days. Each card has the facts for a motion-graphics v
 - **Added:** 2026-10-24
 - **One line:** Shrinks test, git and command output before your agent reads it
 - **Category / DM keyword:** Trending agent tools and productivity / `TRENDING`
-- **Stars:** 85.6k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-11-05
+- **Stars:** 85.7k  |  **Licence:** Apache-2.0  |  **Last push:** 2026-11-06
 - **Type:** cli
 - **Install:** brew install rtk-ai/tap/rtk-oss && rtk init -g
 - **Caution:** Use the rtk-oss edition (Apache-2.0 only); the default edition adds BUSL-licensed parts.

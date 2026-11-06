@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-05. Open-source repos only.
+Names and links only. Updated 2026-11-06. Open-source repos only.
 
 ## This hub
 
@@ -10,25 +10,27 @@ Names and links only. Updated 2026-11-05. Open-source repos only.
 
 ## Trending today
 
+- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
 - pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - Nutlope/hallmark: https://github.com/Nutlope/hallmark
+- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
+- Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
 - obra/superpowers: https://github.com/obra/superpowers
 - calesthio/OpenMontage: https://github.com/calesthio/OpenMontage
-- AgriciDaniel/claude-seo: https://github.com/AgriciDaniel/claude-seo
-- JetBrains/thinkrail: https://github.com/JetBrains/thinkrail
-- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
 - NVIDIA/auto-ontology: https://github.com/NVIDIA/auto-ontology
-- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
-- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
 - mattpocock/skills: https://github.com/mattpocock/skills
-- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- github/spec-kit: https://github.com/github/spec-kit
-- harry0703/MoneyPrinterTurbo: https://github.com/harry0703/MoneyPrinterTurbo
-- FareedKhan-dev/kimi-k3-in-c: https://github.com/FareedKhan-dev/kimi-k3-in-c
-- garrytan/gstack: https://github.com/garrytan/gstack
+- jakubkrehel/skills: https://github.com/jakubkrehel/skills
+- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
 - scenario-labs/skills: https://github.com/scenario-labs/skills
-- Thysrael/Horizon: https://github.com/Thysrael/Horizon
+- garrytan/gstack: https://github.com/garrytan/gstack
+- Usagi-org/ai-goofish-monitor: https://github.com/Usagi-org/ai-goofish-monitor
+- microsoft/VibeVoice: https://github.com/microsoft/VibeVoice
+- google/skills: https://github.com/google/skills
+- ConardLi/garden-skills: https://github.com/ConardLi/garden-skills
+- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 
 ## Guides (use cases + how to)
 
