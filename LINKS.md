@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-06. Open-source repos only.
+Names and links only. Updated 2026-11-07. Open-source repos only.
 
 ## This hub
 
@@ -11,26 +11,20 @@ Names and links only. Updated 2026-11-06. Open-source repos only.
 ## Trending today
 
 - thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
+- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - pbakaus/impeccable: https://github.com/pbakaus/impeccable
 - Nutlope/hallmark: https://github.com/Nutlope/hallmark
-- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
 - milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
-- Leonxlnx/taste-skill: https://github.com/Leonxlnx/taste-skill
+- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
+- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
 - obra/superpowers: https://github.com/obra/superpowers
 - calesthio/OpenMontage: https://github.com/calesthio/OpenMontage
-- NVIDIA/auto-ontology: https://github.com/NVIDIA/auto-ontology
-- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
+- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - mattpocock/skills: https://github.com/mattpocock/skills
+- NVIDIA/auto-ontology: https://github.com/NVIDIA/auto-ontology
 - jakubkrehel/skills: https://github.com/jakubkrehel/skills
-- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
-- scenario-labs/skills: https://github.com/scenario-labs/skills
-- garrytan/gstack: https://github.com/garrytan/gstack
-- Usagi-org/ai-goofish-monitor: https://github.com/Usagi-org/ai-goofish-monitor
-- microsoft/VibeVoice: https://github.com/microsoft/VibeVoice
 - google/skills: https://github.com/google/skills
-- ConardLi/garden-skills: https://github.com/ConardLi/garden-skills
-- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 
 ## Guides (use cases + how to)
 
