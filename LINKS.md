@@ -1,30 +1,12 @@
 # All links
 
-Names and links only. Updated 2026-11-07. Open-source repos only.
+Names and links only. Updated 2026-11-08. Open-source repos only.
 
 ## This hub
 
 - Useful-repo-by-anktechsol: https://github.com/AnkTechsol/Useful-repo-by-anktechsol
 - Trending today (digest): https://github.com/AnkTechsol/Useful-repo-by-anktechsol/blob/main/trending/latest.md
 - How-to guides: https://github.com/AnkTechsol/Useful-repo-by-anktechsol/tree/main/guides
-
-## Trending today
-
-- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
-- pbakaus/impeccable: https://github.com/pbakaus/impeccable
-- Nutlope/hallmark: https://github.com/Nutlope/hallmark
-- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
-- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
-- HKUDS/DeepTutor: https://github.com/HKUDS/DeepTutor
-- obra/superpowers: https://github.com/obra/superpowers
-- calesthio/OpenMontage: https://github.com/calesthio/OpenMontage
-- cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- mattpocock/skills: https://github.com/mattpocock/skills
-- NVIDIA/auto-ontology: https://github.com/NVIDIA/auto-ontology
-- jakubkrehel/skills: https://github.com/jakubkrehel/skills
-- The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
-- google/skills: https://github.com/google/skills
 
 ## Guides (use cases + how to)
 
@@ -49,6 +31,7 @@ Names and links only. Updated 2026-11-07. Open-source repos only.
 - anthropics/claude-plugins-official: https://github.com/anthropics/claude-plugins-official
 - alirezarezvani/claude-skills: https://github.com/alirezarezvani/claude-skills
 - vercel-labs/skills: https://github.com/vercel-labs/skills
+- mattpocock/skills: https://github.com/mattpocock/skills
 - wshobson/agents: https://github.com/wshobson/agents
 - K-Dense-AI/scientific-agent-skills: https://github.com/K-Dense-AI/scientific-agent-skills
 - fcakyon/claude-codex-settings: https://github.com/fcakyon/claude-codex-settings
