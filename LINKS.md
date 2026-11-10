@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-09. Open-source repos only.
+Names and links only. Updated 2026-11-10. Open-source repos only.
 
 ## This hub
 
@@ -11,19 +11,15 @@ Names and links only. Updated 2026-11-09. Open-source repos only.
 ## Trending today
 
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- mattpocock/skills: https://github.com/mattpocock/skills
 - D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- Nutlope/hallmark: https://github.com/Nutlope/hallmark
 - Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
-- The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
-- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
 - meta/astryx: https://github.com/meta/astryx
+- The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
+- mattpocock/skills: https://github.com/mattpocock/skills
 - vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
-- ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
-- garrytan/gbrain: https://github.com/garrytan/gbrain
-- ruvnet/RuView: https://github.com/ruvnet/RuView
 - anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts
+- addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
 - homeassistant-ai/ha-mcp: https://github.com/homeassistant-ai/ha-mcp
 
 ## Guides (use cases + how to)
