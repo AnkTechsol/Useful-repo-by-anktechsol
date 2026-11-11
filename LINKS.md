@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-10. Open-source repos only.
+Names and links only. Updated 2026-11-11. Open-source repos only.
 
 ## This hub
 
@@ -17,10 +17,10 @@ Names and links only. Updated 2026-11-10. Open-source repos only.
 - meta/astryx: https://github.com/meta/astryx
 - The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
 - mattpocock/skills: https://github.com/mattpocock/skills
+- homeassistant-ai/ha-mcp: https://github.com/homeassistant-ai/ha-mcp
 - vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts
 - addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
-- homeassistant-ai/ha-mcp: https://github.com/homeassistant-ai/ha-mcp
 
 ## Guides (use cases + how to)
 
