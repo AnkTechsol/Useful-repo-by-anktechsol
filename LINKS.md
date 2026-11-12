@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-11. Open-source repos only.
+Names and links only. Updated 2026-11-12. Open-source repos only.
 
 ## This hub
 
@@ -11,16 +11,18 @@ Names and links only. Updated 2026-11-11. Open-source repos only.
 ## Trending today
 
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
-- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
-- thedotmack/claude-mem: https://github.com/thedotmack/claude-mem
-- Donchitos/Claude-Code-Game-Studios: https://github.com/Donchitos/Claude-Code-Game-Studios
-- meta/astryx: https://github.com/meta/astryx
-- The-PR-Agent/pr-agent: https://github.com/The-PR-Agent/pr-agent
 - mattpocock/skills: https://github.com/mattpocock/skills
-- homeassistant-ai/ha-mcp: https://github.com/homeassistant-ai/ha-mcp
+- vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
+- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
-- anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts
+- meta/astryx: https://github.com/meta/astryx
+- google/skills: https://github.com/google/skills
 - addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
+- CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
+- ggml-org/llama.cpp: https://github.com/ggml-org/llama.cpp
+- QwenLM/qwen-code: https://github.com/QwenLM/qwen-code
+- ashhart/TensorFold: https://github.com/ashhart/TensorFold
+- openai/codex-security: https://github.com/openai/codex-security
 
 ## Guides (use cases + how to)
 
