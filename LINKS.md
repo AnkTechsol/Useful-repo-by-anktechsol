@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-12. Open-source repos only.
+Names and links only. Updated 2026-11-13. Open-source repos only.
 
 ## This hub
 
@@ -13,16 +13,16 @@ Names and links only. Updated 2026-11-12. Open-source repos only.
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
 - mattpocock/skills: https://github.com/mattpocock/skills
 - vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
-- D4Vinci/Scrapling: https://github.com/D4Vinci/Scrapling
 - vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
-- meta/astryx: https://github.com/meta/astryx
-- google/skills: https://github.com/google/skills
 - addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
-- CopilotKit/OpenBot: https://github.com/CopilotKit/OpenBot
-- ggml-org/llama.cpp: https://github.com/ggml-org/llama.cpp
-- QwenLM/qwen-code: https://github.com/QwenLM/qwen-code
-- ashhart/TensorFold: https://github.com/ashhart/TensorFold
+- anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts
 - openai/codex-security: https://github.com/openai/codex-security
+- ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
+- Likely7/Veyra-NRVideo: https://github.com/Likely7/Veyra-NRVideo
+- alibaba/open-code-review: https://github.com/alibaba/open-code-review
+- backnotprop/plannotator: https://github.com/backnotprop/plannotator
+- tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
+- ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
 
 ## Guides (use cases + how to)
 
