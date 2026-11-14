@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-13. Open-source repos only.
+Names and links only. Updated 2026-11-14. Open-source repos only.
 
 ## This hub
 
@@ -11,10 +11,14 @@ Names and links only. Updated 2026-11-13. Open-source repos only.
 ## Trending today
 
 - cloudflare/security-audit-skill: https://github.com/cloudflare/security-audit-skill
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
 - mattpocock/skills: https://github.com/mattpocock/skills
+- google/elephant-goldfish-model: https://github.com/google/elephant-goldfish-model
 - vercel-labs/agent-desktop: https://github.com/vercel-labs/agent-desktop
 - vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
+- NVIDIA/auto-ontology: https://github.com/NVIDIA/auto-ontology
 - addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
+- GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src
 - anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts
 - openai/codex-security: https://github.com/openai/codex-security
 - ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
