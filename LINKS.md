@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-15. Open-source repos only.
+Names and links only. Updated 2026-11-16. Open-source repos only.
 
 ## This hub
 
@@ -12,21 +12,19 @@ Names and links only. Updated 2026-11-15. Open-source repos only.
 
 - milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
 - google/elephant-goldfish-model: https://github.com/google/elephant-goldfish-model
-- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
+- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
-- anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts
 - GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src
-- alibaba/open-code-review: https://github.com/alibaba/open-code-review
+- dream-num/univer: https://github.com/dream-num/univer
+- backnotprop/plannotator: https://github.com/backnotprop/plannotator
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
-- dream-num/univer: https://github.com/dream-num/univer
-- Likely7/Veyra-NRVideo: https://github.com/Likely7/Veyra-NRVideo
-- backnotprop/plannotator: https://github.com/backnotprop/plannotator
-- JuliusBrussee/caveman: https://github.com/JuliusBrussee/caveman
-- QwenLM/qwen-code: https://github.com/QwenLM/qwen-code
-- ashhart/TensorFold: https://github.com/ashhart/TensorFold
+- alibaba/open-code-review: https://github.com/alibaba/open-code-review
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
+- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
+- elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
 
 ## Guides (use cases + how to)
 
@@ -61,6 +59,7 @@ Names and links only. Updated 2026-11-15. Open-source repos only.
 ## Trending agent tools and productivity
 
 - rtk-ai/rtk: https://github.com/rtk-ai/rtk
+- JuliusBrussee/caveman: https://github.com/JuliusBrussee/caveman
 - tirth8205/code-review-graph: https://github.com/tirth8205/code-review-graph
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
