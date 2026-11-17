@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-16. Open-source repos only.
+Names and links only. Updated 2026-11-17. Open-source repos only.
 
 ## This hub
 
@@ -10,21 +10,24 @@ Names and links only. Updated 2026-11-16. Open-source repos only.
 
 ## Trending today
 
-- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
-- google/elephant-goldfish-model: https://github.com/google/elephant-goldfish-model
+- meta/astryx: https://github.com/meta/astryx
 - ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
-- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
-- GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src
-- dream-num/univer: https://github.com/dream-num/univer
-- backnotprop/plannotator: https://github.com/backnotprop/plannotator
+- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
-- alibaba/open-code-review: https://github.com/alibaba/open-code-review
+- openai/codex-security: https://github.com/openai/codex-security
+- obra/superpowers: https://github.com/obra/superpowers
+- dream-num/univer: https://github.com/dream-num/univer
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
-- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
-- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
 - elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- alibaba/open-code-review: https://github.com/alibaba/open-code-review
+- affaan-m/ECC: https://github.com/affaan-m/ECC
+- backnotprop/plannotator: https://github.com/backnotprop/plannotator
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
+- google-research/paper-orchestra: https://github.com/google-research/paper-orchestra
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind
+- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
 
 ## Guides (use cases + how to)
 
