@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-17. Open-source repos only.
+Names and links only. Updated 2026-11-18. Open-source repos only.
 
 ## This hub
 
@@ -11,23 +11,24 @@ Names and links only. Updated 2026-11-17. Open-source repos only.
 ## Trending today
 
 - meta/astryx: https://github.com/meta/astryx
+- dream-num/univer: https://github.com/dream-num/univer
+- alibaba/open-code-review: https://github.com/alibaba/open-code-review
 - ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
-- addyosmani/agent-skills: https://github.com/addyosmani/agent-skills
 - vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
-- tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
-- openai/codex-security: https://github.com/openai/codex-security
-- obra/superpowers: https://github.com/obra/superpowers
-- dream-num/univer: https://github.com/dream-num/univer
-- ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
-- elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
-- alibaba/open-code-review: https://github.com/alibaba/open-code-review
-- affaan-m/ECC: https://github.com/affaan-m/ECC
 - backnotprop/plannotator: https://github.com/backnotprop/plannotator
-- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
-- google-research/paper-orchestra: https://github.com/google-research/paper-orchestra
-- jingyaogong/minimind: https://github.com/jingyaogong/minimind
+- ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- openai/codex-security: https://github.com/openai/codex-security
+- elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- affaan-m/ECC: https://github.com/affaan-m/ECC
 - mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
+- obra/superpowers: https://github.com/obra/superpowers
+- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
+- appwrite/appwrite: https://github.com/appwrite/appwrite
+- punkpeye/awesome-mcp-servers: https://github.com/punkpeye/awesome-mcp-servers
+- openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
 
 ## Guides (use cases + how to)
 
@@ -69,7 +70,6 @@ Names and links only. Updated 2026-11-17. Open-source repos only.
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
 - anomalyco/opencode: https://github.com/anomalyco/opencode
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
-- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - ahujasid/mcp-for-blender: https://github.com/ahujasid/mcp-for-blender
 - earthtojake/text-to-cad: https://github.com/earthtojake/text-to-cad
 - zanwei/design-dna: https://github.com/zanwei/design-dna
