@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-18. Open-source repos only.
+Names and links only. Updated 2026-11-19. Open-source repos only.
 
 ## This hub
 
@@ -10,24 +10,24 @@ Names and links only. Updated 2026-11-18. Open-source repos only.
 
 ## Trending today
 
-- meta/astryx: https://github.com/meta/astryx
 - dream-num/univer: https://github.com/dream-num/univer
+- meta/astryx: https://github.com/meta/astryx
 - alibaba/open-code-review: https://github.com/alibaba/open-code-review
 - ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
-- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
-- ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - backnotprop/plannotator: https://github.com/backnotprop/plannotator
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
+- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
 - openai/codex-security: https://github.com/openai/codex-security
-- elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- obra/superpowers: https://github.com/obra/superpowers
+- google-research/paper-orchestra: https://github.com/google-research/paper-orchestra
 - affaan-m/ECC: https://github.com/affaan-m/ECC
 - mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
-- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
-- obra/superpowers: https://github.com/obra/superpowers
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
-- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
-- appwrite/appwrite: https://github.com/appwrite/appwrite
+- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
 - punkpeye/awesome-mcp-servers: https://github.com/punkpeye/awesome-mcp-servers
+- appwrite/appwrite: https://github.com/appwrite/appwrite
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
 - openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
 
 ## Guides (use cases + how to)
