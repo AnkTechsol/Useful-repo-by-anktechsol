@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-19. Open-source repos only.
+Names and links only. Updated 2026-11-20. Open-source repos only.
 
 ## This hub
 
@@ -13,22 +13,21 @@ Names and links only. Updated 2026-11-19. Open-source repos only.
 - dream-num/univer: https://github.com/dream-num/univer
 - meta/astryx: https://github.com/meta/astryx
 - alibaba/open-code-review: https://github.com/alibaba/open-code-review
-- ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
 - backnotprop/plannotator: https://github.com/backnotprop/plannotator
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
-- vercel-labs/agent-browser: https://github.com/vercel-labs/agent-browser
-- openai/codex-security: https://github.com/openai/codex-security
+- kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
+- elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
 - obra/superpowers: https://github.com/obra/superpowers
-- google-research/paper-orchestra: https://github.com/google-research/paper-orchestra
-- affaan-m/ECC: https://github.com/affaan-m/ECC
-- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
-- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
-- punkpeye/awesome-mcp-servers: https://github.com/punkpeye/awesome-mcp-servers
-- appwrite/appwrite: https://github.com/appwrite/appwrite
+- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
 - google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
+- cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind
 - openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
+- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
+- Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre
 
 ## Guides (use cases + how to)
 
@@ -66,7 +65,6 @@ Names and links only. Updated 2026-11-19. Open-source repos only.
 - JuliusBrussee/caveman: https://github.com/JuliusBrussee/caveman
 - tirth8205/code-review-graph: https://github.com/tirth8205/code-review-graph
 - Egonex-AI/Understand-Anything: https://github.com/Egonex-AI/Understand-Anything
-- cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - heygen-com/hyperframes: https://github.com/heygen-com/hyperframes
 - anomalyco/opencode: https://github.com/anomalyco/opencode
 - openai/codex-plugin-cc: https://github.com/openai/codex-plugin-cc
@@ -89,7 +87,6 @@ Names and links only. Updated 2026-11-19. Open-source repos only.
 
 ## Creator: video, reels and captions
 
-- kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
 - 6missedcalls/video-editing-skill: https://github.com/6missedcalls/video-editing-skill
 - waseemnasir2k26/reelforge: https://github.com/waseemnasir2k26/reelforge
 - philippprimisser-max/whisper-word-captions: https://github.com/philippprimisser-max/whisper-word-captions
