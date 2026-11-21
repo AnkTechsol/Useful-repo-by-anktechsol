@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-20. Open-source repos only.
+Names and links only. Updated 2026-11-21. Open-source repos only.
 
 ## This hub
 
@@ -11,23 +11,23 @@ Names and links only. Updated 2026-11-20. Open-source repos only.
 ## Trending today
 
 - dream-num/univer: https://github.com/dream-num/univer
-- meta/astryx: https://github.com/meta/astryx
 - alibaba/open-code-review: https://github.com/alibaba/open-code-review
-- backnotprop/plannotator: https://github.com/backnotprop/plannotator
+- meta/astryx: https://github.com/meta/astryx
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- backnotprop/plannotator: https://github.com/backnotprop/plannotator
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
 - elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
-- obra/superpowers: https://github.com/obra/superpowers
 - firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
+- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
+- obra/superpowers: https://github.com/obra/superpowers
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
-- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
-- jingyaogong/minimind: https://github.com/jingyaogong/minimind
-- openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
-- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
 - Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
+- openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
 
 ## Guides (use cases + how to)
 
@@ -61,6 +61,7 @@ Names and links only. Updated 2026-11-20. Open-source repos only.
 
 ## Trending agent tools and productivity
 
+- ccusage/ccusage: https://github.com/ccusage/ccusage
 - rtk-ai/rtk: https://github.com/rtk-ai/rtk
 - JuliusBrussee/caveman: https://github.com/JuliusBrussee/caveman
 - tirth8205/code-review-graph: https://github.com/tirth8205/code-review-graph
