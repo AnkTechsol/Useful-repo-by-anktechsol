@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-21. Open-source repos only.
+Names and links only. Updated 2026-11-22. Open-source repos only.
 
 ## This hub
 
@@ -14,17 +14,17 @@ Names and links only. Updated 2026-11-21. Open-source repos only.
 - alibaba/open-code-review: https://github.com/alibaba/open-code-review
 - meta/astryx: https://github.com/meta/astryx
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
 - backnotprop/plannotator: https://github.com/backnotprop/plannotator
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
-- kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
 - elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
 - firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
-- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
 - obra/superpowers: https://github.com/obra/superpowers
-- jingyaogong/minimind: https://github.com/jingyaogong/minimind
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
-- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
+- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind
 - Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre
 - google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
 - openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
