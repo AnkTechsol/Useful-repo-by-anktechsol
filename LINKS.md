@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-24. Open-source repos only.
+Names and links only. Updated 2026-11-25. Open-source repos only.
 
 ## This hub
 
@@ -14,21 +14,21 @@ Names and links only. Updated 2026-11-24. Open-source repos only.
 - kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
 - meta/astryx: https://github.com/meta/astryx
 - alibaba/open-code-review: https://github.com/alibaba/open-code-review
-- ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
 - GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src
 - backnotprop/plannotator: https://github.com/backnotprop/plannotator
-- tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
+- ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
 - elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
-- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
-- obra/superpowers: https://github.com/obra/superpowers
-- firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
-- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
 - cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
-- jingyaogong/minimind: https://github.com/jingyaogong/minimind
+- firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
+- HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
-- Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre
+- obra/superpowers: https://github.com/obra/superpowers
+- zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind
 - google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
+- Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre
 - openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
 
 ## Guides (use cases + how to)
