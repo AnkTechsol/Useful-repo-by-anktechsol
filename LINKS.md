@@ -1,6 +1,6 @@
 # All links
 
-Names and links only. Updated 2026-11-26. Open-source repos only.
+Names and links only. Updated 2026-11-27. Open-source repos only.
 
 ## This hub
 
@@ -12,22 +12,23 @@ Names and links only. Updated 2026-11-26. Open-source repos only.
 
 - kajisho5/ffmpeg-skill: https://github.com/kajisho5/ffmpeg-skill
 - meta/astryx: https://github.com/meta/astryx
-- dream-num/univer: https://github.com/dream-num/univer
-- GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src
 - alibaba/open-code-review: https://github.com/alibaba/open-code-review
+- GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src
+- dream-num/univer: https://github.com/dream-num/univer
 - backnotprop/plannotator: https://github.com/backnotprop/plannotator
 - elementalsouls/Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
 - tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
 - ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
 - ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp
-- firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
 - n8n-io/nod: https://github.com/n8n-io/nod
-- cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
 - obra/superpowers: https://github.com/obra/superpowers
+- firecrawl/firecrawl: https://github.com/firecrawl/firecrawl
 - zhouxiaoka/autoclip: https://github.com/zhouxiaoka/autoclip
-- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- cathrynlavery/diagram-design: https://github.com/cathrynlavery/diagram-design
+- obsidianmd/obsidian-skills: https://github.com/obsidianmd/obsidian-skills
 - HKUDS/CLI-Anything: https://github.com/HKUDS/CLI-Anything
 - jingyaogong/minimind: https://github.com/jingyaogong/minimind
+- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
 - Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre
 - google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills
 - openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino
